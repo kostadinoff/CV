@@ -4,12 +4,13 @@ output: html_document
 ---
 
 
+
 # АВТОБИОГРАФИЯ
 # Костадин Костадинов
 
 Асистент в МУ-Пловдив, Лекар, Junior data analytic
 
-::: {#webaddress}
+::: 
 <a href="drkostadinkostadinov@gmail.com">drkostadinkostadinov\@gmail.com</a> \| <a href="www.linkedin.com/in/kostadinovmd">My linkedin page </a>| <a href="www.github.com/kostadinoff">My GitGub page </a> | <a href="www.twitter.com/kostadinoffMD">Twitter</a> | <a  href="https://www.facebook.com/medicus92">Facebook</a>
 :::
 
@@ -338,3 +339,4 @@ Data presentation
 ## Други
 
 -   Свидетелство за управление на МПС, кат. В
+
