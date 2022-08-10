@@ -8,7 +8,8 @@ format:
   monofont:  "Cormorant Infant"
 ---
 
-[Email](drkostadinkostadinov@gmail.com) \| [GitHub](www.github.com/kostadinoff) \| [Twitter](www.twitter.com/kostadinoffMD) \| [Linkedin](www.linkedin.com/in/kostadinovmd) \| [ORCID](https://orcid.org/0000-0003-1414-8738)
+[drkostadinkostadinov@gmail](https://drkostadinkostadinov@gmail.com) \| [GitHub](https://github.com/kostadinoff) \| [Twitter](https://twitter.com/kostadinoffMD) \| [Linkedin](https://linkedin.com/in/kostadinovmd) \| [ORCID](https://orcid.org/0000-0003-1414-8738)
+
 
 # Лични данни
 
@@ -183,6 +184,13 @@ format:
 -   Национална научна програма "Млади учени и постдокторанти" Р-322/08.03.2021
 
 ## Международни проекти
+
+`февруари 2022г.`
+
+-   Caring violent child safely in child psychiatric and residential unitsunder  the  Erasmus+  Programme,  Key  Action  2; Agreement number: 2021-1-FI01-KA220-HED-000032106
+`септември 2021г.`
+
+-  Screen4Care - Shortening the path to rare disease diagnosis by using newborn genetic screening and digital technologies- the Innovative Medicines Initiative 2 Joint Undertaking (JU) under grant agreement No 101034427.
 
 `февруари.2020г.`
 
