@@ -3,9 +3,9 @@ title: "Автобиография"
 author: "Костадин Рангелов Костадинов"
 format:
  pdf:
-  mainfont:  "Cormorant Infant"
-  sansfont:  "Cormorant Infant"
-  monofont:  "Cormorant Infant"
+  mainfont:  "Times New Roman"
+  sansfont:  "Times New Roman"
+  monofont:  "Times New Roman"
 ---
 
 [drkostadinkostadinov@gmail](https://drkostadinkostadinov@gmail.com) \| [GitHub](https://github.com/kostadinoff) \| [Twitter](https://twitter.com/kostadinoffMD) \| [Linkedin](https://linkedin.com/in/kostadinovmd) \| [ORCID](https://orcid.org/0000-0003-1414-8738)
@@ -212,7 +212,7 @@ format:
 
 -   Nuclear Pharmacy Integrated Course for Students in Pharmacy, Medicine, Medical Physics and Nuclear Chemistry (NuPhICos).Active participant. Erasmus Intensive Program Project 2013-1-BG-ERA10-00320
 
-`06-08.септември.2014г.`
+`06-08. септември.2014г.`
 
 -   European Medical Students Congress "Rare diseases and orphan Drugs", Plovdiv
 
@@ -260,9 +260,9 @@ format:
 
 -   11-та научна среща-обучение на СОИБОМ „Пътят на пациента със сърдечно-съдови заболявания" Орална презентация „Клиничен случай на клапно предсърдно мъждене"
 
-`28.ноември.2020г.`
+`28. ноември.2020г.`
 
--   Виртуален конгресен център „Редки болести и лекарства сираци" Изнесена лекция на тема [„Придобита тромботична тромбоцитопенична пурпурапо пътя на предизвикателствата"](https://youtu.be/R_UbvDcyTxs)
+-   Виртуален конгресен център „Редки болести и лекарства сираци" Изнесена лекция на тема [„Придобита тромботична тромбоцитопенична пурпура по пътя на предизвикателствата"](https://youtu.be/R_UbvDcyTxs)
 
 ### Международни
 
