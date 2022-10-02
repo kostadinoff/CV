@@ -3,9 +3,9 @@ title: "Автобиография"
 author: "Костадин Рангелов Костадинов"
 format:
  pdf:
-  mainfont:  "Times New Roman"
-  sansfont:  "Times New Roman"
-  monofont:  "Times New Roman"
+  mainfont:  "Old Standard TT"
+  sansfont:  "Old Standard TT"
+  monofont:  "Old Standard TT"
 ---
 
 [drkostadinkostadinov@gmail](https://drkostadinkostadinov@gmail.com) \| [GitHub](https://github.com/kostadinoff) \| [Twitter](https://twitter.com/kostadinoffMD) \| [Linkedin](https://linkedin.com/in/kostadinovmd) \| [ORCID](https://orcid.org/0000-0003-1414-8738)
@@ -46,7 +46,7 @@ format:
 
 `декември 2020-до момента`
 
--   СБАХБ „Медикус Алфа"
+-   СБАЛХБ „Медикус Алфа" ЕООД
 -   Здравеопазване. Болнична и извънболнична помощ
 -   Лекар-ординатор
 -   Диагностично-лечебна дейност в областта на вътрешните болести и кардиологията.
