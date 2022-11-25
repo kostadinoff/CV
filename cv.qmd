@@ -407,5 +407,3 @@ format:
 `10-15.октомври.2021 г.`
 
 -   Оpen Medical Institute (OMI) Seminar “Economic Evaluation in Healthcare”
-
-- 
