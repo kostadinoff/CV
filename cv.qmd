@@ -205,16 +205,7 @@ format:
 
 ## Международни проекти
 
-`февруари 2022 г.`
 
--   Caring violent child safely in child psychiatric and residential unitsunder  the  Erasmus+  Programme,  Key  Action  2; Agreement number: 2021-1-FI01-KA220-HED-000032106
-`септември 2021 г.`
-
--  Screen4Care - Shortening the path to rare disease diagnosis by using newborn genetic screening and digital technologies- the Innovative Medicines Initiative 2 Joint Undertaking (JU) under grant agreement No 101034427.
-
-`февруари. 2020 г.`
-
--   Promoters of advanced oncogenetics open online training and multimedia raise awareness on multidisciplinary assessment of patients and their families at risk of hereditary or familial cancerHOPE How Oncogenetics Predicts & Educates Erasmus+ program.2018-1-RO01-KA202-049189
 
 `3-15 септември 2012 г.`
 
@@ -236,9 +227,23 @@ format:
 
 -   European Medical Students Congress "Rare diseases and orphan Drugs", Plovdiv
 
+`февруари. 2020 г.`
+
+-   Promoters of advanced oncogenetics open online training and multimedia raise awareness on multidisciplinary assessment of patients and their families at risk of hereditary or familial cancerHOPE How Oncogenetics Predicts & Educates Erasmus+ program.2018-1-RO01-KA202-049189
+
 `март-май 2020 г.`
 
 -   „Интердисциплинарност, мултикултурализъм и работа с пациента в нестандартна ситуация в контекста на провеждане на дидактични занимания в областта на медицинските науки и здравните науки в Симулационни медицински центрове" проект № 2019-1-PL01-KA203-065205 по Програма Еразъм. Key Action 2: Cooperation for innovation and the exchange of good practices KA 203: Strategic partnerships for higher education
+
+`септември 2021 г.`
+
+-  Screen4Care - Shortening the path to rare disease diagnosis by using newborn genetic screening and digital technologies- the Innovative Medicines Initiative 2 Joint Undertaking (JU) under grant agreement No 101034427.
+
+`февруари 2022 г.`
+
+-   Caring violent child safely in child psychiatric and residential unitsunder  the  Erasmus+  Programme,  Key  Action  2; Agreement number: 2021-1-FI01-KA220-HED-000032106
+
+
 
 # Клнични изпитвания
 
@@ -319,9 +324,13 @@ format:
 
 -   International Federation of Medical Students' Association (IFMSA) General assembly, Orchid, Macedonia
 
-`ноември 2022 г.`
+`ноември 2016 г.`
 
 -    Black Sea Symposium for Young Scientists in Biomedicine Разработка „Quality of life in south central region of Bulgaria-preliminary results by income, age and sex and employment from an EQ-5D STUDY
+
+`20 - 23 октомври 2022 г.`
+
+-   Joint Forum: 12th South-East European Conference and 32st Annual Assembly of IMAB.  "Antimicrobical activity of root canal filling materials for endodonic treatment in primary dentition" Maria Shindova, Eli Hristozova, Plamen Katsarov, Michael Onov, **Kostadin Kostadinov**, Vasko Toplev, Ani Belcheva
 
 `декември 2022 г.`
 
@@ -400,6 +409,6 @@ format:
 
 -   8th annual symposium "HTA assessment -- strategies for accelerated access" Institute for Rare Diseases
 
-`10-15 октомври 2021 г.`
+`10-15 октомври 2022 г.`
 
 -   Оpen Medical Institute (OMI) Seminar “Economic Evaluation in Healthcare”
