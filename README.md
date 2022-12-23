@@ -195,16 +195,7 @@
 
 ## Международни проекти
 
-`февруари 2022 г.`
 
--   Caring violent child safely in child psychiatric and residential unitsunder  the  Erasmus+  Programme,  Key  Action  2; Agreement number: 2021-1-FI01-KA220-HED-000032106
-`септември 2021 г.`
-
--  Screen4Care - Shortening the path to rare disease diagnosis by using newborn genetic screening and digital technologies- the Innovative Medicines Initiative 2 Joint Undertaking (JU) under grant agreement No 101034427.
-
-`февруари. 2020 г.`
-
--   Promoters of advanced oncogenetics open online training and multimedia raise awareness on multidisciplinary assessment of patients and their families at risk of hereditary or familial cancerHOPE How Oncogenetics Predicts & Educates Erasmus+ program.2018-1-RO01-KA202-049189
 
 `3-15 септември 2012 г.`
 
@@ -226,9 +217,23 @@
 
 -   European Medical Students Congress "Rare diseases and orphan Drugs", Plovdiv
 
+`февруари. 2020 г.`
+
+-   Promoters of advanced oncogenetics open online training and multimedia raise awareness on multidisciplinary assessment of patients and their families at risk of hereditary or familial cancerHOPE How Oncogenetics Predicts & Educates Erasmus+ program.2018-1-RO01-KA202-049189
+
 `март-май 2020 г.`
 
 -   „Интердисциплинарност, мултикултурализъм и работа с пациента в нестандартна ситуация в контекста на провеждане на дидактични занимания в областта на медицинските науки и здравните науки в Симулационни медицински центрове" проект № 2019-1-PL01-KA203-065205 по Програма Еразъм. Key Action 2: Cooperation for innovation and the exchange of good practices KA 203: Strategic partnerships for higher education
+
+`септември 2021 г.`
+
+-  Screen4Care - Shortening the path to rare disease diagnosis by using newborn genetic screening and digital technologies- the Innovative Medicines Initiative 2 Joint Undertaking (JU) under grant agreement No 101034427.
+
+`февруари 2022 г.`
+
+-   Caring violent child safely in child psychiatric and residential unitsunder  the  Erasmus+  Programme,  Key  Action  2; Agreement number: 2021-1-FI01-KA220-HED-000032106
+
+
 
 # Клнични изпитвания
 
@@ -288,9 +293,7 @@
 
 `14-16 септември 2021 г.`
 
--   XVIII хационален конгрес по клинична микробиология и инфекции на българската асоциация на микробиолозите
-
-  " Бърз молекулно-биологичен скрининг за вагинална кандидоза при симптоматични жени" Христозова Е., Рачковска , Георгиева В., Дерменджиев Т., **Костадинов К.**, Влахова М., Учикова Е. ,Мурджева М. (постер) 
+-   XVIII хационален конгрес по клинична микробиология и инфекции на българската асоциация на микробиолозите  " Бърз молекулно-биологичен скрининг за вагинална кандидоза при симптоматични жени" Христозова Е., Рачковска , Георгиева В., Дерменджиев Т., **Костадинов К.**, Влахова М., Учикова Е. ,Мурджева М. (постер) 
 
 `15-16 септември 2022 г.`
 
@@ -302,10 +305,11 @@
 
 `30 септември - 01 октомври 2022 г.`
 
--   Четвърта национална конференция по епидемиология. „Инфекциозните заболявания в България- проблеми и перспективи”
+-   Четвърта национална конференция по епидемиология. „Инфекциозните заболявания в България- проблеми и перспективи” тема" "Ковид-19 в България и влияние на ваксините върху хоспитализацията, смъртността и леталитета А. Кеворкян, **К. Костадинов**, В. Рангелова, Р. Райчева, А. Кунчев, А. Сербезова
 
-  Ковид-19 в България и влияние на ваксините върху хоспитализацията, смъртността и леталитета А. Кеворкян, **К. Костадинов**, В. Рангелова, Р. Райчева, А. Кунчев, А. Сербезова
+`16 декември 2022 г.`
 
+-  Ефекти на ДХЕА като стреоиден прекурсор върху имунологичната реактивност при различни професионални групи в дистрес. Мария Ивановска, Петя Ангелова Гарджева, Дора Димитрова Терзиева, Нонка Георгиева Матева, **Костадин Рангелов Костадинов**, Теодора Миткова Калфова , Мариана Атанасова Мурджева (постер-доклад). Годишна научна конференция по имунология, Българска асоциация по клинична имунология.
 
 ## Международни
 
@@ -313,17 +317,25 @@
 
 -   International Federation of Medical Students' Association (IFMSA) General assembly, Orchid, Macedonia
 
-`ноември 2022 г.`
+`ноември 2016 г.`
 
 -    Black Sea Symposium for Young Scientists in Biomedicine Разработка „Quality of life in south central region of Bulgaria-preliminary results by income, age and sex and employment from an EQ-5D STUDY
 
-`декември 2022 г.`
+`20 - 23 октомври 2022 г.`
+
+-   Joint Forum: 12th South-East European Conference and 32st Annual Assembly of IMAB.  "Antimicrobical activity of root canal filling materials for endodonic treatment in primary dentition" Maria Shindova, Eli Hristozova, Plamen Katsarov, Michael Onov, **Kostadin Kostadinov**, Vasko Toplev, Ani Belcheva
+
+`6-9 ноември 2022 г.`
 
 - [Delay of Innovative Oncology Treatments - Case From Bulgaria](https://www.ispor.org/heor-resources/presentations-database/presentation/euro2022-3565/120960), Poster session, Raycheva R,**Kostadinov K**; 2022-11, ISPOR Europe 2022, Vienna, Austria; Value in Health, Volume 25, Issue 12S (December 2022)
 
-## Обучения 
+`15 - 18 април 2023`
 
-### Национални
+- 33-rd European Congress of Clinical Microbiology and Infectious Diseases" Impact of COVID-19 vaccines –data from Bulgaria" Ani Kevorkyan, **Kostadin Kostadinov**, Vania Rangelova, Ralitsa Raycheva , Angel Kunchev
+
+## Обучения и клалификации
+
+### Национални конференции 
 
 `24-25 септември 2011 г.`
 
@@ -333,10 +345,6 @@
 
 -   Токуда болница София „Основни хирургически умения"
 
-`05-06 април 2013 г.`
-
--   Интердисциплинарна конференция
-
 `20-21 октомври 2014 г.`
 
 -   Програма финансирана от Глобалния фонд за борба срещу СПИН, туберкулоза и малария „Диагностика, грижи и лечение на хора живеещи с ХИВ/СПИН (ХЖХС) за нуждите на ПФГФ" гр. Пловдив
@@ -345,13 +353,23 @@
 
 -   Национален институт по радиобиология и радиационна защита „Медицинско осигуряване при радиационни, ядрени аварии и тероризъм аварийна готовност" гр. София
 
-`10 ноември 2017 г.`
-
--   Национална кардиологична болница „Ехокадиографската оценка на сърдечна функция"
-
 `15-17 юли 2018 г.`
 
 -   Научен симпозиум „Остър коронарен синдром" гр. Пловдив
+
+`7-9 ноември 2019 г.`
+
+-   Научен симпозиум „Тахиаритмии и синкоп" 22-23. ноември.2019г. Трето училище по ехокардиография. гр. София „Нови ехографски методи в кардиологията"
+
+`1-2 декември 2022 г.`
+
+- Заключителна конференция по ННП „Електронно здравеопазване в България“
+
+### Клалификации
+
+`10 ноември 2017 г.`
+
+-   Национална кардиологична болница „Ехокадиографската оценка на сърдечна функция"
 
 `19-20 октомври 2018 г.`
 
@@ -360,10 +378,6 @@
 `22-23 февруари 2019 г.`
 
 -   Второ училище по ехокардиография гр. София Ехографска оценка на вродени и придобити сърдечносъдови заболявания
-
-`7-9 ноември 2019 г.`
-
--   Научен симпозиум „Тахиаритмии и синкоп" 22-23. ноември.2019г. Трето училище по ехокардиография. гр. София „Нови ехографски методи в кардиологията"
 
 `22-26 март 2021 г.`
 
@@ -384,6 +398,8 @@
 
 -   Курс "Мащинно самоубочение" Machine Learning; СофтУни 
 
+
+
 ### Международни
 
 `1-2 декември 2017 г.`
@@ -394,6 +410,6 @@
 
 -   8th annual symposium "HTA assessment -- strategies for accelerated access" Institute for Rare Diseases
 
-`10-15 октомври 2021 г.`
+`10-15 октомври 2022 г.`
 
 -   Оpen Medical Institute (OMI) Seminar “Economic Evaluation in Healthcare”
