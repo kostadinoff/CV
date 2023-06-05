@@ -3,9 +3,9 @@ title: "Автобиография"
 author: "Костадин Рангелов Костадинов"
 format:
  pdf:
-  mainfont:  "Old Standard TT"
-  sansfont:  "Old Standard TT"
-  monofont:  "Old Standard TT"
+  mainfont:  "New York Medium"
+  sansfont:  "New York Medium"
+  monofont:  "New York Medium"
   fontsize: 12pt
 ---
 
@@ -62,6 +62,11 @@ format:
 
 ## Участие в неправителствени организации
 
+
+`2021 - до момента`
+
+- Лекарска мрежа "Въздух за здраве" Сдружение
+
 `2013 - до момента`
 
 - "Европейска мрежа за креативност и иновации" Сдружение
@@ -80,7 +85,7 @@ format:
 
 ## Преподавателска дейност
 
-Учебно-практически занятия по дисциплините медицинска етика; биостатистика; социална медицина и обществено дентално здраве. 
+Учебно-практически занятия по дисциплините медицинска етика - биостатистика; социална медицина и обществено дентално здраве. 
 
 ## Езикови
 
@@ -105,7 +110,7 @@ format:
 `Програмни езици и инструменти`
 
 -   Data analysis
-    R;Python; SPSS; SAS; STATA
+    R; Python; SPSS; SAS; STATA
     
 -   Data mining
     Orange; SPSS Modeler
@@ -142,6 +147,8 @@ format:
 
 `от 2020 г.` Европейска асоциация по обществено здраве
 
+`от 2022 г.` Световна федерация на асоциациите по обществено здраве (WFPHA)
+
 # Публикации
 
 ## Пълнотекстови статии на английски език
@@ -158,8 +165,12 @@ format:
 
 -   **Костадинов, К.**, Стефанов, Г., Искров, Г. & Стефанов, Р. Епидемиология на придобитата тромботична тромбоцитопенична пурпура. Редки болести и лекарства сираци 11, 36-44 (2020).  Редки болести и лекарства сираци, Vol. 11, no. 3, Oct. 2020, pp. 36-44, <https://doi.org/10.36865/2020.v11i3.122> 
 
+## Резюмета на английски език
 
-## В научни сборници
+- Raycheva, R, and **K Kostadinov**. “HTA69 Delay of Innovative Oncology Treatments - Case From Bulgaria.” Value in Health, ISPOR Europe 2022 Abstracts, 25, no. 12, Supplement (December 1, 2022): S309–10. https://doi.org/10.1016/j.jval.2022.09.1529.
+
+
+## Пълнотекстови статии на български език в научни сборници
 
 -   Ivan Atanasov, Venelina Dudulova, Gina Stoykova, Gergana Lengerova, **Kostadin Kostadinov**, Eleonora Hristova, Georgi Iskrov, Rumen Stefanov" Quality of life in South central region of Bulgaria - preliminary results by employment status from an EQ-5D study" Varna Medical Forum, Black sea Symposium for young scientists in biomedicine 2016 том 5, бр.1.
 
@@ -208,7 +219,6 @@ format:
 - "Антимикробна активност на каналопълнежните средства за лечение на ендодонтска инфекция на временни зъби" Докторантски и постдокторантски проекти ДПДП 04/01.09.2021
 
 ## Международни проекти
-
 
 
 `3-15 септември 2012 г.`
@@ -343,9 +353,13 @@ format:
 
 - [Delay of Innovative Oncology Treatments - Case From Bulgaria](https://www.ispor.org/heor-resources/presentations-database/presentation/euro2022-3565/120960), Poster session, Raycheva R,**Kostadinov K**; 2022-11, ISPOR Europe 2022, Vienna, Austria; Value in Health, Volume 25, Issue 12S (December 2022)
 
-`15 - 18 април 2023`
+`15 - 18 април 2023 г.`
 
 - 33-rd European Congress of Clinical Microbiology and Infectious Diseases" Impact of COVID-19 vaccines –data from Bulgaria" Ani Kevorkyan, **Kostadin Kostadinov**, Vania Rangelova, Ralitsa Raycheva , Angel Kunchev
+
+`8-10 май 2023 г.`
+
+- [The Price of Innovation - Oncology Treatments Expenditures: Case from Bulgaria](https://www.ispor.org/docs/default-source/intl2023/ispor23raychevaposter-pdf.pdf?sfvrsn=d7fc52be_0), Poster session, Raycheva R,**Kostadinov K**; 2023-05, ISPOR 2023, Boston, MA, USA; Value in Health, Volume 26, Issue 6 (June 2023)
 
 ## Обучения и клалификации
 
