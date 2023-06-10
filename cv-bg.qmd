@@ -3,9 +3,9 @@ title: "Автобиография"
 author: "Костадин Рангелов Костадинов"
 format:
  pdf:
-  mainfont:  "SF Pro Text Light"
-  sansfont:  "SF Pro Text Light"
-  monofont:  "SF Mono"
+  mainfont:  "Roboto"
+  sansfont:  "Roboto"
+  monofont:  "Roboto"
   fontsize: 11pt
 ---
 
@@ -242,55 +242,35 @@ format:
 
 -   „Интердисциплинарност, мултикултурализъм и работа с пациента в нестандартна ситуация в контекста на провеждане на дидактични занимания в областта на медицинските науки и здравните науки в Симулационни медицински центрове" проект № 2019-1-PL01-KA203-065205 по Програма Еразъм. Key Action 2: Cooperation for innovation and the exchange of good practices KA 203: Strategic partnerships for higher education
 
-`септември 2021 г.`
+`от септември 2021 г.`
 
 -  Screen4Care - Shortening the path to rare disease diagnosis by using newborn genetic screening and digital technologies- the Innovative Medicines Initiative 2 Joint Undertaking (JU) under grant agreement No 101034427.
 
-`февруари 2022 г.`
+`от февруари 2022 г.`
 
--   Caring violent child safely in child psychiatric and residential unitsunder  the  Erasmus+  Programme,  Key  Action  2; Agreement number: 2021-1-FI01-KA220-HED-000032106
+-   Caring violent child safely in child psychiatric and residential units under  the  Erasmus+  Programme,  Key  Action  2; Agreement number: 2021-1-FI01-KA220-HED-000032106
 
+`от април 2023 г.`
 
+- Developing multi-professional Higher Education for promoting mental health and well-being at schools Project Reference: 2020-1-FI01-KA203-066521
 
-# Клнични изпитвания
+## Клнични изпитвания
 
 `2018-2019 г.`
 
 -   ApoA-I Event reducinG in Ischemic Syndromes II (AEGIS II); Study Coordinator
 
-# Конгреси & Обучения
+# Участия в конгреси
 
-## Активно участие
-
-### Национални
-
-`13-14 септември 2013 г.`
-
--   I Национална конференция по редки болести за студенти по медицина
-
-`11-12 септември 2015 г.`
-
--   VI Национална конференция по редки болести и лекарства сираци „Персонализиран подход и иновации в областта на редките болести" гр. Пловдив
-
-`април 2016 г.`
--   „Мултифасетен поглед върху детското развитие" гр. Пловдив
-
-`9-10 септември 2016 г.`
-
--   VII Национална конференция по редки болести и лекарства сираци „Редките заболявания във фокуса на европейските референти мрежи"
-
-
-`8-10 септември 2017 г.`
-
--   8th National conference for rare diseases and 12th Balkan congress of human genetics "Rare diseases- new horizons for scientific research"
+## Национални
 
 `27-29 септември 2019 г.`
 
--   11-та научна среща-обучение на СОИБОМ „Пътят на пациента със сърдечно-съдови заболявания" Орална презентация „Клиничен случай на клапно предсърдно мъждене"
+-   11-та научна среща-обучение на СОИБОМ „Пътят на пациента със сърдечно-съдови заболявания" Орална презентация „Клиничен случай на клапно предсърдно мъждене" **К.Костадинов**
 
 `28 ноември 2020 г.`
 
--   Виртуален конгресен център „Редки болести и лекарства сираци" [„Придобита тромботична тромбоцитопенична пурпура по пътя на предизвикателствата"](https://youtu.be/R_UbvDcyTxs)
+-   Виртуален конгресен център „Редки болести и лекарства сираци" [„Придобита тромботична тромбоцитопенична пурпура по пътя на предизвикателствата"](https://youtu.be/R_UbvDcyTxs) **К.Костадинов**
 
 `09-11 март 2021 г.`
 
@@ -330,14 +310,6 @@ format:
 
 ## Международни
 
-`3-9 август 2015 г.`
-
--   International Federation of Medical Students' Association (IFMSA) General assembly, Orchid, Macedonia
-
-`ноември 2016 г.`
-
--    Black Sea Symposium for Young Scientists in Biomedicine Разработка „Quality of life in south central region of Bulgaria-preliminary results by income, age and sex and employment from an EQ-5D STUDY
-
 `20 - 23 октомври 2022 г.`
 
 -   Joint Forum: 12th South-East European Conference and 32st Annual Assembly of IMAB.  "Antimicrobical activity of root canal filling materials for endodonic treatment in primary dentition" Maria Shindova, Eli Hristozova, Plamen Katsarov, Michael Onov, **Kostadin Kostadinov**, Vasko Toplev, Ani Belcheva
@@ -358,10 +330,9 @@ format:
 
 - [The Price of Innovation - Oncology Treatments Expenditures: Case from Bulgaria](https://www.ispor.org/docs/default-source/intl2023/ispor23raychevaposter-pdf.pdf?sfvrsn=d7fc52be_0), Poster session, Raycheva R,**Kostadinov K**; 2023-05, ISPOR 2023, Boston, MA, USA; Value in Health, Volume 26, Issue 6 (June 2023)
 
+# Обучения & клалификации
 
-## Обучения и клалификации
-
-### Национални конференции 
+## Национални обучения
 
 `24-25 септември 2011 г.`
 
@@ -391,8 +362,21 @@ format:
 
 - Заключителна конференция по ННП „Електронно здравеопазване в България“
 
+## Международни обучения
 
-### Клалификации
+`1-2 декември 2017 г.`
+
+-   Critical appraisal course, гр. София CPD
+
+`27 март 2021 г.`
+
+-   8th annual symposium "HTA assessment -- strategies for accelerated access" Institute for Rare Diseases
+
+`10-15 октомври 2022 г.`
+
+-   Оpen Medical Institute (OMI) Seminar “Economic Evaluation in Healthcare”
+
+## Клалификации
 
 `10 ноември 2017 г.`
 
@@ -424,18 +408,3 @@ format:
  `септември 2021 г.`
 
 -   Курс "Мащинно самоубочение" Machine Learning; СофтУни 
-
-
-### Международни
-
-`1-2 декември 2017 г.`
-
--   Critical appraisal course, гр. София CPD
-
-`27 март 2021 г.`
-
--   8th annual symposium "HTA assessment -- strategies for accelerated access" Institute for Rare Diseases
-
-`10-15 октомври 2022 г.`
-
--   Оpen Medical Institute (OMI) Seminar “Economic Evaluation in Healthcare”
