@@ -1,12 +1,12 @@
 ---
-title: "Автобиография"
+title: "АВТОБИОГРАФИЯ"
 author: "Костадин Рангелов Костадинов"
 format:
  pdf:
-  mainfont:  "Roboto"
-  sansfont:  "Roboto"
-  monofont:  "Roboto"
-  fontsize: 11pt
+  mainfont:  "Roboto Serif Light"
+  sansfont:  "Sofia Sans Condensed Light"
+  monofont:  "JetBrains Mono Thin"
+  fontsize: 10pt
 ---
 
 [drkostadinkostadinov@gmail](https://drkostadinkostadinov@gmail.com) \| [GitHub](https://github.com/kostadinoff) \| [Twitter](https://twitter.com/kostadinoffMD) \| [Linkedin](https://linkedin.com/in/kostadinovmd) \| [ORCID](https://orcid.org/0000-0003-1414-8738)
