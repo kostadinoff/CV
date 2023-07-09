@@ -11,12 +11,16 @@ format:
 
 [drkostadinkostadinov@gmail](https://drkostadinkostadinov@gmail.com) \| [GitHub](https://github.com/kostadinoff) \| [Twitter](https://twitter.com/kostadinoffMD) \| [Linkedin](https://linkedin.com/in/kostadinovmd) \| [ORCID](https://orcid.org/0000-0003-1414-8738)
 
+---
+
 # Personal data
 
 `Date of birth`
 
 - 1992-04-01
 - Plovdiv, Bulgaria 
+
+---
 
 # Education
 
@@ -34,7 +38,8 @@ format:
 
 - Master's degree in Medicine
 - Medical university - Plovdiv, Faculty of Medicine
-   
+
+--- 
    
 # Work experience
 
@@ -76,6 +81,8 @@ format:
 `2012-2017`
 
 - Association of Medical Students in Bulgaria Chairman of the Control Council. Secretary
+
+---
 
 # Personal skills and competences
 
@@ -138,6 +145,8 @@ Academic and teaching activities in a multicultural environment with medical and
 
 `2022` World Federation of Public Health Associations (WFPHA)
 
+---
+
 # Publications
 
 ## Abstracts in English language
@@ -180,6 +189,8 @@ Academic and teaching activities in a multicultural environment with medical and
 - **Kostadinov, K.** Tsvetkov, E. Yankov, I. Cerebral palsy associated with Cystic Fibrosis- RBLS, R. (2019). 9th National Conference on Rare Diseases and Orphan Drugs - Proceedings of presentations and posters. Rare Diseases and Orphan Drugs, 9(2). <https://doi.org/10.36865/2018.v9i2.93>
 
 - **Kostadinov K**, Kehayov D, Tsvetkov E, Kondareva R, Havalyova A, Hristova E. Vegener granulomatosis- clinical aspects, diagnosis and pathomorphology. RBLS, R. (2019). 6th National Conference on Rare Diseases and Orphan Drugs - Proceedings. Rare diseases and orphan drugs, 6(1). <https://doi.org
+
+---
 
 # Project activity
 
@@ -258,6 +269,8 @@ Academic and teaching activities in a multicultural environment with medical and
 
 - ApoA-I Event reducinG in Ischemic Syndromes II (AEGIS II); Study Coordinator
 
+---
+
 # Participation in congresses
 
 ## National
@@ -327,6 +340,8 @@ Academic and teaching activities in a multicultural environment with medical and
 `8-10/05/2023`
 
 - [The Price of Innovation - Oncology Treatments Expenditures: Case from Bulgaria](https://www.ispor.org/docs/default-source/intl2023/ispor23raychevaposter-pdf.pdf?sfvrsn=d7fc52be_0), Poster session, Raycheva R,**Kostadinov K**; 2023-05, ISPOR 2023, Boston, MA, USA; Value in Health, Volume 26, Issue 6 (June 2023)
+
+---
 
 # Training & Califications
 
