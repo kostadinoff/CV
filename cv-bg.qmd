@@ -11,7 +11,7 @@ format:
 
 [drkostadinkostadinov@gmail](https://drkostadinkostadinov@gmail.com) \| [GitHub](https://github.com/kostadinoff) \| [Twitter](https://twitter.com/kostadinoffMD) \| [Linkedin](https://linkedin.com/in/kostadinovmd) \| [ORCID](https://orcid.org/0000-0003-1414-8738)
 
----
+
 
 # Лични данни
 
@@ -94,10 +94,14 @@ format:
 
 ## Езикови
 
-`Английски език (B2)`
+`Английски език`
 
--  Удостоверение 083/21.12.2017г., ДЕСО, МУ-Пловдив 
--  Удостоверение 32/26.06.2017г."N & N New School of English" 2021г.
+-  First Certificate in English (FCE) - Cambridge English Language Assessment 
+      - Reading C1
+      - Writing B2
+      - Use of English C1
+      - Listening B2
+      - Speaking C1
 
 
 ## Социални
