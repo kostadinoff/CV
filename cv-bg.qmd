@@ -6,7 +6,7 @@ format:
   mainfont:  "Sofia Sans Condensed Light"
   sansfont:  "Sofia Sans Condensed Light"
   monofont:  "Sofia Sans Condensed Light"
-  fontsize: 12pt
+  fontsize:  12pt
 ---
 
 [drkostadinkostadinov@gmail](https://drkostadinkostadinov@gmail.com) \| [GitHub](https://github.com/kostadinoff) \| [Twitter](https://twitter.com/kostadinoffMD) \| [Linkedin](https://linkedin.com/in/kostadinovmd) \| [ORCID](https://orcid.org/0000-0003-1414-8738)
@@ -173,6 +173,8 @@ format:
 -   **Костадинов, К.**, Стефанов, Г., Искров, Г. & Стефанов, Р. Епидемиология на придобитата тромботична тромбоцитопенична пурпура. Редки болести и лекарства сираци 11, 36-44 (2020).  Редки болести и лекарства сираци, Vol. 11, no. 3, Oct. 2020, pp. 36-44, <https://doi.org/10.36865/2020.v11i3.122> 
 
 ## Резюмета на английски език
+
+- Raycheva, R., and **K. Kostadinov**. “HTA69 Delay of Innovative Oncology Treatments - Case From Bulgaria.” Value in Health, vol. 25, no. 12, Supplement, Dec. 2022, pp. S309–10. ScienceDirect, https://doi.org/10.1016/j.jval.2022.09.1529.
 
 - Raycheva, R, and **K Kostadinov**. “HTA69 Delay of Innovative Oncology Treatments - Case From Bulgaria.” Value in Health, ISPOR Europe 2022 Abstracts, 25, no. 12, Supplement (December 1, 2022): S309–10. https://doi.org/10.1016/j.jval.2022.09.1529.
 
