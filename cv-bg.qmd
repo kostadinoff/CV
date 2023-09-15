@@ -106,7 +106,7 @@ format:
 
 ## Социални
 
-Академична и преподавателска дейност в мултикултурна среда със студенти по медицина и дентална медицина. Курсове за следдипломно обучение с участници от всички континенти. Активно участие в социални и благотворителни проекти на неправителствени и нестопански организации. Допълнителна професионална квалификация в Ирландия, Австрия, Финландия. 
+Академична и преподавателска дейност в мултикултурна среда със студенти по медицина и дентална медицина. Курсове за следдипломно обучение с участници от всички континенти. Активно участие в социални и благотворителни проекти на неправителствени организации. Допълнителна професионална квалификация в Ирландия, Гърция, Австрия, Финландия. 
 
 ##  Компютърни умения
 
@@ -159,6 +159,8 @@ format:
 # Публикации
 
 ## Пълнотекстови статии на английски език
+
+- Raycheva, R., **Kostadinov, K.**, Mitova, E., Bogoeva, N., Iskrov, G., Stefanov, G., & Stefanov, R. (2023). Challenges in mapping European rare disease databases, relevant for ML-based screening technologies in terms of organizational, FAIR and legal principles: Scoping review. Frontiers in Public Health, 11. <https://www.frontiersin.org/articles/10.3389/fpubh.2023.1214766>
 
 - Peter Kelly, Mohamad M. Saab, Emma J. Hurley, Sinéad Heffernan, John Goodwin, Zamzaliza A. Mulud, Maria O Malley, James O Mahony, Margaret Curtin, Gunter Groen, Svetla Ivanova, Astrid Jörns-Presentati, Joonas Korhonen, **Kostadin Kostadinov**, Mari Lahti, Valentina Lalova, Gergana Petrova & Aine O Donovan. "Trauma Informed Interventions to Reduce Seclusion, Restraint and Restrictive Practices Amongst Staff Caring for Children and Adolescents with Challening Behaviours: A Systematic Review. Journ. Child Adol. Trauma (2023)". <https://doi.org/10.1007/s40653-023-00524-2>
 

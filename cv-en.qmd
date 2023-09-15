@@ -106,7 +106,7 @@ Teaching in the disciplines of medical ethics; biostatistics; social medicine an
 
 ## Social
 
-Academic and teaching activities in a multicultural environment with medical and dental students. Postgraduate courses with participants from all continents. Active participation in social and philanthropic projects of non-profit and non-governmental organizations. Additional professional training in Ireland, Austria, Finland. 
+Academic and teaching activities in a multicultural environment with medical and dental students. Postgraduate courses with participants from all continents. Active participation in social and philanthropic projects of non-profit and non-governmental organizations. Additional professional training in Ireland, Greece, Austria, Finland. 
 
 ## Computer skills
 
@@ -156,13 +156,16 @@ Academic and teaching activities in a multicultural environment with medical and
 
 # Publications
 
-## Abstracts in English language
+## Abstracts in English 
+
 
 - Raycheva, R., and **K. Kostadinov**. “HTA69 Delay of Innovative Oncology Treatments - Case From Bulgaria.” Value in Health, vol. 25, no. 12, Supplement, Dec. 2022, pp. S309–10. ScienceDirect, https://doi.org/10.1016/j.jval.2022.09.1529.
 
 - Raycheva, R, and **K Kostadinov**. “HTA69 Delay of Innovative Oncology Treatments - Case From Bulgaria.” Value in Health, ISPOR Europe 2022 Abstracts, 25, no. 12, Supplement (December 1, 2022): S309–10. https://doi.org/10.1016/j.jval.2022.09.1529
 
-## Full-text articles in English language
+## Full-text articles in English 
+
+- Raycheva, R., **Kostadinov, K.**, Mitova, E., Bogoeva, N., Iskrov, G., Stefanov, G., & Stefanov, R. (2023). Challenges in mapping European rare disease databases, relevant for ML-based screening technologies in terms of organizational, FAIR and legal principles: Scoping review. Frontiers in Public Health, 11. <https://www.frontiersin.org/articles/10.3389/fpubh.2023.1214766>
 
 - Peter Kelly, Mohamad M. Saab, Emma J. Hurley, Sinéad Heffernan, John Goodwin, Zamzaliza A. Mulud, Maria O Malley, James O Mahony, Margaret Curtin, Gunter Groen, Svetla Ivanova, Astrid Jörns-Presentati, Joonas Korhonen, **Kostadin Kostadinov**, Mari Lahti, Valentina Lalova, Gergana Petrova & Aine O Donovan. "Trauma Informed Interventions to Reduce Seclusion, Restraint and Restrictive Practices Amongst Staff Caring for Children and Adolescents with Challenging Behaviours: A Systematic Review. Journ. Child Adol. Trauma (2023)". <https://doi.org/10.1007/s40653-023-00524-2>
 
@@ -170,7 +173,7 @@ Academic and teaching activities in a multicultural environment with medical and
 
 - F. Kiani, **K. Kostadinov**, R. . Stefanov, and V. Mandova, "Dentophobia-latent Component Factor Analysis of Dental Concerns Assessment Scale," Open Access Maced J Med Sci, vol. 11, no. E, pp. 53-58, Jan. 2023. <https://doi.org/10.3889/oamjms.2023.9749>, eISSN: 1857-9655
 
-## Full-text articles in Bulgarian language
+## Full-text articles in Bulgarian 
 
 - Khubenova, M, **Kostadinov K**., "[Change in dietary habits during the anti-epidemic measures on the occasion of COVID-19"](https://cml.mu-sofia.bg/CML/assets/files/OM-1-2022-%D0%9A%D0%BE%D1%81%D1%82%D0%B0%D0%B4%D0%B8%D0%BD%20%D0%9A%D0%BE%D1%81%D1%82%D0%B0%D0%B4%D0%B8%D0%BD%D0%BE%D0%B2.pdf). journal. "General Medicine" no. 24, 2020; 23-29.
 
