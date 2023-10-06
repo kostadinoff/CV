@@ -165,6 +165,8 @@ Academic and teaching activities in a multicultural environment with medical and
 
 ## Full-text articles in English 
 
+- K. Guevara and **K. Kostadinov**, “Neurological Soft Signs and Social Cognition in Patients with Schizophrenia: the Missing Link”, C. R. Acad. Bulg. Sci. , vol. 76, no. 9, pp. 1440–1448, Oct. 2023. <https://doi.org/10.7546/CRABS.2023.09.15>
+
 - Raycheva, R., **Kostadinov, K.**, Mitova, E., Bogoeva, N., Iskrov, G., Stefanov, G., & Stefanov, R. (2023). Challenges in mapping European rare disease databases, relevant for ML-based screening technologies in terms of organizational, FAIR and legal principles: Scoping review. Frontiers in Public Health, 11. <https://www.frontiersin.org/articles/10.3389/fpubh.2023.1214766>
 
 - Peter Kelly, Mohamad M. Saab, Emma J. Hurley, Sinéad Heffernan, John Goodwin, Zamzaliza A. Mulud, Maria O Malley, James O Mahony, Margaret Curtin, Gunter Groen, Svetla Ivanova, Astrid Jörns-Presentati, Joonas Korhonen, **Kostadin Kostadinov**, Mari Lahti, Valentina Lalova, Gergana Petrova & Aine O Donovan. "Trauma Informed Interventions to Reduce Seclusion, Restraint and Restrictive Practices Amongst Staff Caring for Children and Adolescents with Challenging Behaviours: A Systematic Review. Journ. Child Adol. Trauma (2023)". <https://doi.org/10.1007/s40653-023-00524-2>
