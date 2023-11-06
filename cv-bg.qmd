@@ -3,10 +3,9 @@ title: "АВТОБИОГРАФИЯ"
 author: "Костадин Рангелов Костадинов"
 format:
  pdf:
-  mainfont:  "Sofia Sans Condensed Light"
-  sansfont:  "Sofia Sans Condensed Light"
-  monofont:  "Sofia Sans Condensed Light"
-  fontsize:  12pt
+  mainfont:  "Veleka"
+  sansfont:  "Veleka"
+  monofont:  "Veleka"
 ---
 
 [drkostadinkostadinov@gmail](https://drkostadinkostadinov@gmail.com) \| [GitHub](https://github.com/kostadinoff) \| [Twitter](https://twitter.com/kostadinoffMD) \| [Linkedin](https://linkedin.com/in/kostadinovmd) \| [ORCID](https://orcid.org/0000-0003-1414-8738)
@@ -172,7 +171,9 @@ format:
 
 ## Пълнотекстови статии на български език
 
--   Хубенова, М,  **Костадинов К**., "[Промяна в хранителните навици по време на противоепидемичните мерки по повод COVID-19"](https://cml.mu-sofia.bg/CML/assets/files/OM-1-2022-%D0%9A%D0%BE%D1%81%D1%82%D0%B0%D0%B4%D0%B8%D0%BD%20%D0%9A%D0%BE%D1%81%D1%82%D0%B0%D0%B4%D0%B8%D0%BD%D0%BE%D0%B2.pdf). сп. "Обща медицина" бр. 24, 2020г; 23–29.
+-    Хубенова, М,  **Костадинов К**., "[Промяна в хранителните навици по време на противоепидемичните мерки по повод COVID-19"](https://cml.mu-sofia.bg/CML/assets/files/OM-1-2022-%D0%9A%D0%BE%D1%81%D1%82%D0%B0%D0%B4%D0%B8%D0%BD%20%D0%9A%D0%BE%D1%81%D1%82%D0%B0%D0%B4%D0%B8%D0%BD%D0%BE%D0%B2.pdf). сп. "Обща медицина" бр. 24, 2020г; 23–29.
+
+-    **Костадинов, К.**, & Мусурлиева, Н. (2023). Исторически преглед на дефиницията за редки тумори в контекста на здравните политики. Редки болести и лекарства сираци, 14(2), 6-12. <https://doi.org/10.36865/2023.v14i2.182>
 
 -   **Костадинов, К.**, Стефанов, Г., Искров, Г. & Стефанов, Р. Епидемиология на придобитата тромботична тромбоцитопенична пурпура. Редки болести и лекарства сираци 11, 36-44 (2020).  Редки болести и лекарства сираци, Vol. 11, no. 3, Oct. 2020, pp. 36-44, <https://doi.org/10.36865/2020.v11i3.122> 
 
