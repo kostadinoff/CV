@@ -159,6 +159,8 @@ format:
 
 ## Пълнотекстови статии на английски език
 
+- Nicolas Garnier, Joanne Berghout, Aldona Zygmunt, Deependra Singh, Kui A Huang, Waltraud Kantz, Carl Rudolf Blankart, Sandra Gillner, Jiawei Zhao, Richard Roettger, Christina Saier, Jan Kirschner, Joern Schenk, Leon Atkins, Nuala Ryan, Kaja Zarakowska, Jana Zschüntzsch, Michela Zuccolo, Matthias Müllenborn, Yuen-Sum Man, Liz Goodman, Marie Trad, Anne Sophie Chalandon, Stefaan Sansen, Maria Martinez-Fresno, Shirlene Badger, Rudolf Walther van Olden, Robert Rothmann, Patrick Lehner, Christof Tschohl, Ludovic Baillon, Gulcin Gumus, Edith Gross, Rumen Stefanov, Georgi Iskrov, Ralitsa Raycheva, **Kostadin Kostadinov**, Elena Mitova, Moshe Einhorn, Yaron Einhorn, Josef Schepers, Miriam Hübner, Frauke Alves, Rowan Iskandar, Rudolf Mayer, Alessandra Renieri, Aneta Piperkova, Ivo Gut, Sergi Beltran, Mads Emil Matthiesen, Marion Poetz, Mats Hansson, Regina Trollmann, Emanuele Agolini, Silvia Ottombrino, Antonio Novelli, Enrico Bertini, Rita Selvatici, Marianna Farnè, Fernanda Fortunato, Alessandra Ferlini, "Genetic newborn screening and digital technologies: A project protocol based on a dual approach to shorten the rare diseases diagnostic path in Europe" PLOS ONE, 18(11), e0293503. <https://doi.org/10.1371/journal.pone.0293503>
+
 - K. Guevara and **K. Kostadinov**, “Neurological Soft Signs and Social Cognition in Patients with Schizophrenia: the Missing Link”, C. R. Acad. Bulg. Sci. , vol. 76, no. 9, pp. 1440–1448, Oct. 2023. <https://doi.org/10.7546/CRABS.2023.09.15>
 
 - Raycheva, R., **Kostadinov, K.**, Mitova, E., Bogoeva, N., Iskrov, G., Stefanov, G., & Stefanov, R. (2023). Challenges in mapping European rare disease databases, relevant for ML-based screening technologies in terms of organizational, FAIR and legal principles: Scoping review. Frontiers in Public Health, 11. <https://www.frontiersin.org/articles/10.3389/fpubh.2023.1214766>
@@ -212,6 +214,21 @@ format:
 
 # Проектна дейност
 
+## Университетски проекти
+
+`септември 2021 г.` 
+
+-   “Бърза микробиологична диагноза на генитални инфекции при жени и мъже – сравнителен анализ” № НО-03/2020 (НО-Р-8445) . Научноизследователски проект, финансиран по Наредба на МОН от 01.01.2017 г. за условията и реда за планиране, разпределение и разходване на средствата, отпускани целево от държавния бюджет за присъщата на висшите училища научна или художествено-творческа дейност.
+
+`септември 2022 г.` 
+
+- "Антимикробна активност на каналопълнежните средства за лечение на ендодонтска инфекция на временни зъби" Докторантски и постдокторантски проекти ДПДП 04/01.09.2021
+
+`октомври 2023 г.` 
+
+- "Сравнително проучване върху съвременни микробиологични методи за бърза етиологична диагностика на уроинфекции" Докторантски и постдокторантски проекти ДПДП 10/2023
+
+
 ## Национални проекти
 
 `31 октомври 2013 г.` 
@@ -226,13 +243,6 @@ format:
 
 -   Национална научна програма "Млади учени и постдокторанти" Р-322/08.03.2021
 
-`септември 2021 г.` 
-
--   “Бърза микробиологична диагноза на генитални инфекции при жени и мъже – сравнителен анализ” № НО-03/2020 (НО-Р-8445) . Научноизследователски проект, финансиран по Наредба на МОН от 01.01.2017 г. за условията и реда за планиране, разпределение и разходване на средствата, отпускани целево от държавния бюджет за присъщата на висшите училища научна или художествено-творческа дейност.
-
-`септември 2022 г.` 
-
-- "Антимикробна активност на каналопълнежните средства за лечение на ендодонтска инфекция на временни зъби" Докторантски и постдокторантски проекти ДПДП 04/01.09.2021
 
 ## Международни проекти
 
@@ -349,7 +359,7 @@ format:
 
 - `4-11 март 2023 г.`
 
-- Immunological reactivity under acute and chronic stress. Where are we? Experience in Bulgariа. M. Ivanovska, T. Kalfova, P. Gаrdjeva, **K. Kostadinov**, M. Murdjeva
+- 41th European Winter Conference on brain research (EWCBR); Immunological reactivity under acute and chronic stress. Where are we? Experience in Bulgariа. M. Ivanovska, T. Kalfova, P. Gаrdjeva, **K. Kostadinov**, M. Murdjeva
 
 `8-10 май 2023 г.`
 
