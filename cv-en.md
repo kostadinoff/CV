@@ -158,9 +158,14 @@ Engaging in academic and instructional endeavors within a diverse setting encomp
 
 ## Abstracts in English 
 
-- Raycheva, R., and **K. Kostadinov**. ***“HTA7 Тhe price of innovation – oncology treatments expenditures: Case from Bulgaria.***“ Value in Health, vol. 26, no. 6, Supplement, Jun. 2023, pp. S260–10. ScienceDirect,<https://doi.org/10.1016/j.jval.2023.03.1436>
+- Raycheva, R., and **K. Kostadinov**. ***“Тhe price of innovation – oncology treatments expenditures: Case from Bulgaria.***“ Value in Health, vol. 26, no. 6, Supplement, Jun. 2023, pp. S260–10. ScienceDirect,<https://doi.org/10.1016/j.jval.2023.03.1436>
+
+- Raycheva, R., and **K. Kostadinov**. ***“Delay of Innovative Oncology Treatments - Case From Bulgaria.”*** Value in Health, vol. 25, no. 12, Supplement, Dec. 2022, pp. S309–10. ScienceDirect, <https://doi.org/10.1016/j.jval.2022.09.1529>
+
 
 ## Full-text articles in English 
+
+- Iskrov, G., Raycheva, R., **Kostadinov, K.**, Gillner, S., Blankart, C. R., Gross, E. S., Gumus, G., Mitova, E., Stefanov, S., Stefanov, G., & Stefanov, R. (2024). ***Are the European reference networks for rare diseases ready to embrace machine learning? A mixed-methods study.*** Orphanet Journal of Rare Diseases, 19(1), 25.  <https://doi.org/10.1186/s13023-024-03047-7>
 
 - Nicolas Garnier, Joanne Berghout, Aldona Zygmunt, Deependra Singh, Kui A Huang, Waltraud Kantz, Carl Rudolf Blankart, Sandra Gillner, Jiawei Zhao, Richard Roettger, Christina Saier, Jan Kirschner, Joern Schenk, Leon Atkins, Nuala Ryan, Kaja Zarakowska, Jana Zschüntzsch, Michela Zuccolo, Matthias Müllenborn, Yuen-Sum Man, Liz Goodman, Marie Trad, Anne Sophie Chalandon, Stefaan Sansen, Maria Martinez-Fresno, Shirlene Badger, Rudolf Walther van Olden, Robert Rothmann, Patrick Lehner, Christof Tschohl, Ludovic Baillon, Gulcin Gumus, Edith Gross, Rumen Stefanov, Georgi Iskrov, Ralitsa Raycheva, **Kostadin Kostadinov**, Elena Mitova, Moshe Einhorn, Yaron Einhorn, Josef Schepers, Miriam Hübner, Frauke Alves, Rowan Iskandar, Rudolf Mayer, Alessandra Renieri, Aneta Piperkova, Ivo Gut, Sergi Beltran, Mads Emil Matthiesen, Marion Poetz, Mats Hansson, Regina Trollmann, Emanuele Agolini, Silvia Ottombrino, Antonio Novelli, Enrico Bertini, Rita Selvatici, Marianna Farnè, Fernanda Fortunato, Alessandra Ferlini, ***"Genetic newborn screening and digital technologies: A project protocol based on a dual approach to shorten the rare diseases diagnostic path in Europe"*** PLOS ONE, 18(11), e0293503. <https://doi.org/10.1371/journal.pone.0293503>
 

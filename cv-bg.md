@@ -161,6 +161,9 @@ format:
 
 ## Пълнотекстови статии на английски език
 
+- Iskrov, G., Raycheva, R., **Kostadinov, K.**, Gillner, S., Blankart, C. R., Gross, E. S., Gumus, G., Mitova, E., Stefanov, S., Stefanov, G., & Stefanov, R. (2024). ***Are the European reference networks for rare diseases ready to embrace machine learning? A mixed-methods study.*** Orphanet Journal of Rare Diseases, 19(1), 25.  <https://doi.org/10.1186/s13023-024-03047-7>
+
+
 - Nicolas Garnier, Joanne Berghout, Aldona Zygmunt, Deependra Singh, Kui A Huang, Waltraud Kantz, Carl Rudolf Blankart, Sandra Gillner, Jiawei Zhao, Richard Roettger, Christina Saier, Jan Kirschner, Joern Schenk, Leon Atkins, Nuala Ryan, Kaja Zarakowska, Jana Zschüntzsch, Michela Zuccolo, Matthias Müllenborn, Yuen-Sum Man, Liz Goodman, Marie Trad, Anne Sophie Chalandon, Stefaan Sansen, Maria Martinez-Fresno, Shirlene Badger, Rudolf Walther van Olden, Robert Rothmann, Patrick Lehner, Christof Tschohl, Ludovic Baillon, Gulcin Gumus, Edith Gross, Rumen Stefanov, Georgi Iskrov, Ralitsa Raycheva, **Kostadin Kostadinov**, Elena Mitova, Moshe Einhorn, Yaron Einhorn, Josef Schepers, Miriam Hübner, Frauke Alves, Rowan Iskandar, Rudolf Mayer, Alessandra Renieri, Aneta Piperkova, Ivo Gut, Sergi Beltran, Mads Emil Matthiesen, Marion Poetz, Mats Hansson, Regina Trollmann, Emanuele Agolini, Silvia Ottombrino, Antonio Novelli, Enrico Bertini, Rita Selvatici, Marianna Farnè, Fernanda Fortunato, Alessandra Ferlini, ***"Genetic newborn screening and digital technologies: A project protocol based on a dual approach to shorten the rare diseases diagnostic path in Europe"*** PLOS ONE, 18(11), e0293503. <https://doi.org/10.1371/journal.pone.0293503>
 
 - K. Guevara and **K. Kostadinov**, ***“Neurological Soft Signs and Social Cognition in Patients with Schizophrenia: the Missing Link”***, C. R. Acad. Bulg. Sci. , vol. 76, no. 9, pp. 1440–1448, Oct. 2023. <https://doi.org/10.7546/CRABS.2023.09.15>
