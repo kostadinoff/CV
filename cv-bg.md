@@ -6,6 +6,8 @@ format:
   mainfont:  Sofia Sans Condensed
   sansfont:  Sofia Sans Condensed
   monofont:  Sofia Sans Condensed
+  fontsize:  13pt
+  geometry:  margin=0.75in
 ---
 
 <div style="text-align:center"> [drkostadinkostadinov@gmail](https://drkostadinkostadinov@gmail.com) \| [GitHub](https://github.com/kostadinoff) \| [Twitter](https://twitter.com/kostadinoffMD) \| [Linkedin](https://linkedin.com/in/kostadinovmd) \| [ORCID](https://orcid.org/0000-0003-1414-8738) </div>

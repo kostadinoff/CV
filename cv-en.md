@@ -6,6 +6,8 @@ format:
   mainfont:  Sofia Sans Condensed
   sansfont:  Sofia Sans Condensed
   monofont:  Sofia Sans Condensed
+  fontsize:  13pt
+  geometry: margin=0.75in
 ---
 
 [drkostadinkostadinov@gmail](https://drkostadinkostadinov@gmail.com) \| [GitHub](https://github.com/kostadinoff) \| [Twitter](https://twitter.com/kostadinoffMD) \| [Linkedin](https://linkedin.com/in/kostadinovmd) \| [ORCID](https://orcid.org/0000-0003-1414-8738)
@@ -181,11 +183,11 @@ Engaging in academic and instructional endeavors within a diverse setting encomp
 
 ## Full-text articles in Bulgarian 
 
-- Hubenova, M, **Kostadinov K**., "[Change in dietary habits during the anti-epidemic measures on the occasion of COVID-19"](https://cml.mu-sofia.bg/CML/assets/files/OM-1-2022-%D0%9A%D0%BE%D1%81%D1%82%D0%B0%D0%B4%D0%B8%D0%BD%20%D0%9A%D0%BE%D1%81%D1%82%D0%B0%D0%B4%D0%B8%D0%BD%D0%BE%D0%B2.pdf). journal. "General Medicine" no. 24, 2020; 23-29.
+- Hubenova, M, **Kostadinov K**., ***"[Change in dietary habits during the anti-epidemic measures on the occasion of COVID-19"](https://cml.mu-sofia.bg/CML/assets/files/OM-1-2022-%D0%9A%D0%BE%D1%81%D1%82%D0%B0%D0%B4%D0%B8%D0%BD%20%D0%9A%D0%BE%D1%81%D1%82%D0%B0%D0%B4%D0%B8%D0%BD%D0%BE%D0%B2.pdf)***. journal. "General Medicine" no. 24, 2020; 23-29.
 
-- **Kostadinov, K.**, and N. Musurlieva. "Historical review of the definition of rare tumors in the context of health policies". Rare Diseases and Orphan Drugs, vol. 14, no. 2, Nov. 2023, pp. 6-12, <<https://doi:10.36865/2023.v14i2.182>.
+- **Kostadinov, K.**, and N. Musurlieva. ***"Historical review of the definition of rare tumors in the context of health policies"***. Rare Diseases and Orphan Drugs, vol. 14, no. 2, Nov. 2023, pp. 6-12, <https://doi:10.36865/2023.v14i2.182>.
 
-- **Kostadinov, K.**, Stefanov, G., Iskrov, G. & Stefanov, R. Epidemiology of acquired thrombotic thrombocytopenic purpura. Rare Diseases and Orphan Drugs 11, 36-44 (2020).  Rare Diseases and Orphan Drugs, vol. 11, no. 3, Oct. 2020, pp. 36-44, <https://doi.org/10.36865/2020.v11i3.122>.
+- **Kostadinov, K.**, Stefanov, G., Iskrov, G. & Stefanov, R. ***Epidemiology of acquired thrombotic thrombocytopenic purpura.*** Rare Diseases and Orphan Drugs 11, 36-44 (2020).  Rare Diseases and Orphan Drugs, vol. 11, no. 3, Oct. 2020, pp. 36-44, <https://doi.org/10.36865/2020.v11i3.122>.
 
 - **Kostadinov K**, Musurlieva N. ***"Rare tumors in the light of new assisted reproduction techniques. "*** Journal of Medical Law and Healthcare 4/2023; 6-12, ISBN 2748-7070-4-2023
 
