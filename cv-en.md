@@ -167,6 +167,8 @@ Engaging in academic and instructional endeavors within a diverse setting encomp
 
 ## Full-text articles in English 
 
+- Kostadinov, K., Yuliyana M., Dimitrov K., Hristova-Atanasova E., Iskrov, E., Stefanov R. ***“Navigating Gene Therapy Access: The Case of Bulgaria in the Context of the EU Regulatory Landscape.”*** Healthcare 12, no. 4 (January 2024): 458. <https://doi.org/10.3390/healthcare12040458>
+
 - Iskrov, G., Raycheva, R., **Kostadinov, K.**, Gillner, S., Blankart, C. R., Gross, E. S., Gumus, G., Mitova, E., Stefanov, S., Stefanov, G., & Stefanov, R. (2024). ***Are the European reference networks for rare diseases ready to embrace machine learning? A mixed-methods study.*** Orphanet Journal of Rare Diseases, 19(1), 25.  <https://doi.org/10.1186/s13023-024-03047-7>
 
 - Nicolas Garnier, Joanne Berghout, Aldona Zygmunt, Deependra Singh, Kui A Huang, Waltraud Kantz, Carl Rudolf Blankart, Sandra Gillner, Jiawei Zhao, Richard Roettger, Christina Saier, Jan Kirschner, Joern Schenk, Leon Atkins, Nuala Ryan, Kaja Zarakowska, Jana Zschüntzsch, Michela Zuccolo, Matthias Müllenborn, Yuen-Sum Man, Liz Goodman, Marie Trad, Anne Sophie Chalandon, Stefaan Sansen, Maria Martinez-Fresno, Shirlene Badger, Rudolf Walther van Olden, Robert Rothmann, Patrick Lehner, Christof Tschohl, Ludovic Baillon, Gulcin Gumus, Edith Gross, Rumen Stefanov, Georgi Iskrov, Ralitsa Raycheva, **Kostadin Kostadinov**, Elena Mitova, Moshe Einhorn, Yaron Einhorn, Josef Schepers, Miriam Hübner, Frauke Alves, Rowan Iskandar, Rudolf Mayer, Alessandra Renieri, Aneta Piperkova, Ivo Gut, Sergi Beltran, Mads Emil Matthiesen, Marion Poetz, Mats Hansson, Regina Trollmann, Emanuele Agolini, Silvia Ottombrino, Antonio Novelli, Enrico Bertini, Rita Selvatici, Marianna Farnè, Fernanda Fortunato, Alessandra Ferlini, ***"Genetic newborn screening and digital technologies: A project protocol based on a dual approach to shorten the rare diseases diagnostic path in Europe"*** PLOS ONE, 18(11), e0293503. <https://doi.org/10.1371/journal.pone.0293503>
@@ -375,7 +377,7 @@ Engaging in academic and instructional endeavors within a diverse setting encomp
 
 ---
 
-# Training & Califications
+# Training; Education; Certification
 
 ## National trainings
 
@@ -407,7 +409,7 @@ Engaging in academic and instructional endeavors within a diverse setting encomp
 
 - Final conference of the National National Program "Electronic Healthcare in Bulgaria"
 
-## International trainings
+## International congresses and trainings
 
 `1-2/12/2017`
 
@@ -425,6 +427,10 @@ Engaging in academic and instructional endeavors within a diverse setting encomp
 
 -   Оpen Medical Institute (OMI) Seminar “Public Health Stategy - I”; Maastricht University program; Salzburg, Austria, Sertificate of excellent presentation 
 
+`6-8/02/2024`
+
+-  4th Fair Pricing Forum; World Health Organisation
+
 ## Classifications
 
 `10/11/2017`
@@ -433,7 +439,7 @@ Engaging in academic and instructional endeavors within a diverse setting encomp
 
 `19-20/10/2018`
 
-- First School of Echocardiography., Sofia, Introduction to echocardiographic diagnostics
+- First School of Echocardiography, Sofia, Introduction to echocardiographic diagnostics
 
 `22-23/02/2019 `
 
