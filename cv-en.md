@@ -154,7 +154,7 @@ Engaging in academic and instructional endeavors within a diverse setting encomp
 
 # Publications
 
-## Monograph
+## Textbooks
 
 - Ani Kevorkian, **Kostadin Kostadinov**, Vanya Rangelova, Ralitsa Raicheva. ***COVID-19 in Bulgaria. Epidemiological Analysis***, University Publishing House "Paisii Hilendarski", 2023; ISBN 978-619-202-922-7; Reviewers. J. Stoilova, PhD; Prof. Dr. Oliana Boykinova, PhD
 
@@ -167,7 +167,9 @@ Engaging in academic and instructional endeavors within a diverse setting encomp
 
 ## Full-text articles in English 
 
-- Kostadinov, K., Yuliyana M., Dimitrov K., Hristova-Atanasova E., Iskrov, E., Stefanov R. ***“Navigating Gene Therapy Access: The Case of Bulgaria in the Context of the EU Regulatory Landscape.”*** Healthcare 12, no. 4 (January 2024): 458. <https://doi.org/10.3390/healthcare12040458>
+- Raycheva, R., **Kostadinov**, K., Mitova, E., Iskrov, G., Stefanov, G., Vakevainen, M., Elomaa, K., Man, Y.-S., Gross, E., Zschüntzsch, J., Röttger, R., & Stefanov, R. (2024). ***Landscape analysis of available European data sources amenable for machine learning and recommendations on usability for rare diseases screening***. Orphanet Journal of Rare Diseases, 19(1), 147. <https://doi.org/10.1186/s13023-024-03162-5>
+
+- **Kostadinov, K.**, Yuliyana M., Dimitrov K., Hristova-Atanasova E., Iskrov, E., Stefanov R. ***“Navigating Gene Therapy Access: The Case of Bulgaria in the Context of the EU Regulatory Landscape.”*** Healthcare 12, no. 4 (January 2024): 458. <https://doi.org/10.3390/healthcare12040458>
 
 - Iskrov, G., Raycheva, R., **Kostadinov, K.**, Gillner, S., Blankart, C. R., Gross, E. S., Gumus, G., Mitova, E., Stefanov, S., Stefanov, G., & Stefanov, R. (2024). ***Are the European reference networks for rare diseases ready to embrace machine learning? A mixed-methods study.*** Orphanet Journal of Rare Diseases, 19(1), 25.  <https://doi.org/10.1186/s13023-024-03047-7>
 

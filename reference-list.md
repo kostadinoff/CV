@@ -5,7 +5,7 @@ bibliography: referencelist.bib
 format:
     pdf:
      cite-method: biblatex
-     mainfont: Liberation Serif
+     mainfont: Fira Sans
      fontsize: 12pt
 ---
 
