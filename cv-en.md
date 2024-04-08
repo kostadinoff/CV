@@ -195,7 +195,7 @@ Engaging in academic and instructional endeavors within a diverse setting encomp
 
 - **Kostadinov K**, Musurlieva N. ***"Rare tumors in the light of new assisted reproduction techniques. "*** Journal of Medical Law and Healthcare 4/2023; 6-12, ISBN 2748-7070-4-2023
 
-## Аrticles in scientific proceedings
+## Articles in scientific proceedings
 
 - Ivan Atanasov, Venelina Dudulova, Gina Stoykova, Gergana Lengerova, **Kostadin Kostadinov**, Eleonora Hristova, Georgi Iskrov, Rumen Stefanov ***"Quality of life in South central region of Bulgaria - preliminary results by employment status from an EQ-5D study"*** Varna Medical Forum, Black sea Symposium for young scientists in biomedicine 2016 vol.5, no.1.
 
