@@ -367,7 +367,7 @@ Engaging in academic and instructional endeavors within a diverse setting encomp
 
 `6-9/11/2022`
 
-- ***[Delay of Innovative Oncology Treatments - Case From Bulgaria](https://www.ispor.org/heor-resources/presentations-database/presentation/euro2022-3565/120960)***, Poster session, Raycheva R,**Kostadinov K**; 2022-11, ISPOR Europe 2022, Vienna, Austria; Value in Health, Volume 25, Issue 12S (December 2022)
+- ***[Delay of Innovative Oncology Treatments - Case From Bulgaria](https://www.ispor.org/heor-resources/presentations-database/presentation/euro2022-3565/120960)***, Poster session, Raycheva R, **Kostadinov K**; 2022-11, ISPOR Europe 2022, Vienna, Austria; Value in Health, Volume 25, Issue 12S (December 2022)
 
 `15-8/04/2023`
 
@@ -409,7 +409,7 @@ Engaging in academic and instructional endeavors within a diverse setting encomp
 
 `1-2/12/2022`.
 
-- Final conference of the National National Program "Electronic Healthcare in Bulgaria"
+- Final conference of the National Program "Electronic Healthcare in Bulgaria"
 
 ## International congresses and postgraduate courses
 
