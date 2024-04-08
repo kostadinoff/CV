@@ -427,7 +427,7 @@ Engaging in academic and instructional endeavors within a diverse setting encomp
 
 `03-09/12/2023`
 
--   Оpen Medical Institute (OMI) Seminar “Public Health Stategy - I”; Maastricht University program; Salzburg, Austria, Sertificate of excellent presentation 
+-   Оpen Medical Institute (OMI) Seminar “Public Health Stategy - I”; Maastricht University program; Salzburg, Austria, Certificate of excellent presentation 
 
 `6-8/02/2024`
 
