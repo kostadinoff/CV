@@ -411,7 +411,7 @@ Engaging in academic and instructional endeavors within a diverse setting encomp
 
 - Final conference of the National National Program "Electronic Healthcare in Bulgaria"
 
-## International congresses and trainings
+## International congresses and postgraduate courses
 
 `1-2/12/2017`
 
@@ -433,7 +433,12 @@ Engaging in academic and instructional endeavors within a diverse setting encomp
 
 -  4th Fair Pricing Forum; World Health Organisation
 
-## Classifications
+`04/2024 - 09/2024`
+
+-  [OpenAQ Community Ambassador Program](https://openaq.org/about/people/kostadin-kostadinov/). The OpenAQ program includes a comprehensive curriculum on ambient air pollution, air quality monitoring, data transparency, data access, data analysis, participatory research and community engagement.
+
+
+## National postgraduate courses
 
 `10/11/2017`
 
@@ -464,4 +469,4 @@ Engaging in academic and instructional endeavors within a diverse setting encomp
 
 `09/2021`
 
-- "Machine Learning" Machine Learning course; SoftUni
+- "Machine Learning" Postgraduate course; SoftUni
