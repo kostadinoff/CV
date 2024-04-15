@@ -163,7 +163,9 @@ format:
 
 ## Пълнотекстови статии на английски език
 
-- Raycheva, R., **Kostadinov**, K., Mitova, E., Iskrov, G., Stefanov, G., Vakevainen, M., Elomaa, K., Man, Y.-S., Gross, E., Zschüntzsch, J., Röttger, R., & Stefanov, R. (2024). ***Landscape analysis of available European data sources amenable for machine learning and recommendations on usability for rare diseases screening***. Orphanet Journal of Rare Diseases, 19(1), 147. <https://doi.org/10.1186/s13023-024-03162-5>
+- - **Kostadinov, K.**, Popova-Sotirova, I., Marinova, Y., Musurlieva, N., Iskrov, G., & Stefanov, R. (2024). ***Availability and access to orphan drugs for rare cancers in bulgaria: Analysis of delays and public expenditures***. Cancers, 16(8), 1489. <https://doi.org/10.3390/cancers16081489>
+
+- Raycheva, R., **Kostadinov, K.**, Mitova, E., Iskrov, G., Stefanov, G., Vakevainen, M., Elomaa, K., Man, Y.-S., Gross, E., Zschüntzsch, J., Röttger, R., & Stefanov, R. (2024). ***Landscape analysis of available European data sources amenable for machine learning and recommendations on usability for rare diseases screening***. Orphanet Journal of Rare Diseases, 19(1), 147. <https://doi.org/10.1186/s13023-024-03162-5>
 
 - **Kostadinov, K.**, Yuliyana M., Dimitrov K., Hristova-Atanasova E., Iskrov, E., Stefanov R. ***“Navigating Gene Therapy Access: The Case of Bulgaria in the Context of the EU Regulatory Landscape.”*** Healthcare 12, no. 4 (January 2024): 458. <https://doi.org/10.3390/healthcare12040458>
 
@@ -378,7 +380,7 @@ format:
 
 ---
 
-# Обучения, Конгреси и Клалификации
+# Обучения, Конгреси и Квалификации
 
 ## Национални обучения
 
