@@ -310,6 +310,8 @@ format:
 
 - ApoA-I Event reducinG in Ischemic Syndromes II (AEGIS II); Study Coordinator
 
+- ATRIAL FIBRILLATION INTEGRATED APPROACH IN FRAIL, MULTIMORBID, AND POLYMEDICATED OLDER PEOPLE (AFFIRMO); Monitor
+
 ---
 
 # Участия в конгреси
@@ -358,7 +360,11 @@ format:
 
 `16 декември 2022 г.`
 
--  ***"Ефекти на ДХЕА като стреоиден прекурсор върху имунологичната реактивност при различни професионални групи в дистрес."*** Мария Ивановска, Петя Ангелова Гарджева, Дора Димитрова Терзиева, Нонка Георгиева Матева, **Костадин Рангелов Костадинов**, Теодора Миткова Калфова , Мариана Атанасова Мурджева (постер-доклад). Годишна научна конференция по имунология, Българска асоциация по клинична имунология.
+-  Годишна научна конференция по имунология, Българска асоциация по клинична имунология. ***"Ефекти на ДХЕА като стреоиден прекурсор върху имунологичната реактивност при различни професионални групи в дистрес."*** Мария Ивановска, Петя Ангелова Гарджева, Дора Димитрова Терзиева, Нонка Георгиева Матева, **Костадин Рангелов Костадинов**, Теодора Миткова Калфова , Мариана Атанасова Мурджева (постер-доклад). 
+
+`19-21 април 2024 г.`
+
+-   Конференцията Наука и Младост 2021. ***[Assessment of antimicrobial susceptibility of staphylococcus aureus nasal isolates from preclinical medical students at the medical university of Plovdiv](https://asclepius.bg/cnm/wp-content/uploads/2024/04/SY-DMS-2024-abstracts-web.pdf)*** Aras Budak, **Kostadin Kostadinov**, Radoslav Tashev, Eli Hristozova
 
 ## Международни
 
@@ -377,6 +383,11 @@ format:
 `4-11 март 2023 г.`
 
 - 41th European Winter Conference on brain research (EWCBR); ***Immunological reactivity under acute and chronic stress. Where are we? Experience in Bulgariа.*** M. Ivanovska, T. Kalfova, P. Gаrdjeva, **K. Kostadinov**, M. Murdjeva
+
+`14 септември 2023 г.`
+
+- Webinar: EU Health Technology Assessment Regulation. The role and involvement of Cancer Patients. ***Landscape of Bulgarian HTA regulations***. **Kostadinov K**. Belgium. 
+
 
 ---
 
@@ -412,6 +423,7 @@ format:
 
 - Заключителна конференция по ННП „Електронно здравеопазване в България“
 
+
 ## Международни обучения
 
 `1-2 декември 2017 г.`
@@ -426,17 +438,27 @@ format:
 
 - Оpen Medical Institute (OMI) Seminar “Economic Evaluation in Healthcare”; Maastricht University program; Salzburg, Austria
 
+
+`5 април 2024 г.`
+
+- 10-ти Международен симпозиум – Оценка на здравни технологии и неонатален скрининг, гр. София
+
+
 `03-09 декември 2023 г.`
 
 - Оpen Medical Institute (OMI) Seminar “Public Health Stategy - I”; Maastricht University program; Salzburg, Austria, Sertificate of excellent presentation 
 
-`6-8/02/2024`
+`6-8 февруари 2024 г.`
 
 - 4th Fair Pricing Forum; World Health Organisation
 
 `04/2024 - 09/2024`
 
 -  [OpenAQ Community Ambassador Program](https://openaq.org/about/people/kostadin-kostadinov/). The OpenAQ program includes a comprehensive curriculum on ambient air pollution, air quality monitoring, data transparency, data access, data analysis, participatory research and community engagement.
+
+`26 май - 01 юни 2024 г.`
+
+- Оpen Medical Institute (OMI) Seminar “Public Health Stategy - II”; Maastricht University program; Salzburg, Austria, Sertificate of excellent presentation 
 
 ## Клалификации
 

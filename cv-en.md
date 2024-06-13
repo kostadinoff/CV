@@ -311,6 +311,8 @@ Engaging in academic and instructional endeavors within a diverse setting encomp
 
 - ApoA-I Event reducinG in Ischemic Syndromes II (AEGIS II); Study Coordinator
 
+- ATRIAL FIBRILLATION INTEGRATED APPROACH IN FRAIL, MULTIMORBID, AND POLYMEDICATED OLDER PEOPLE (AFFIRMO); Monitor
+
 ---
 
 # Congresses
@@ -379,6 +381,10 @@ Engaging in academic and instructional endeavors within a diverse setting encomp
 
 - 41th European Winter Conference on brain research (EWCBR); ***Immunological reactivity under acute and chronic stress. Where are we? Experience in Bulgariа.*** M. Ivanovska, T. Kalfova, P. Gаrdjeva, **K. Kostadinov**, M. Murdjeva
 
+`14/09/2023`
+
+- Webinar: EU Health Technology Assessment Regulation. The role and involvement of Cancer Patients. ***Landscape of Bulgarian HTA regulations***. **Kostadinov K**. Belgium. 
+
 ---
 
 # Training; Education; Certification
@@ -413,6 +419,7 @@ Engaging in academic and instructional endeavors within a diverse setting encomp
 
 - Final conference of the National Program "Electronic Healthcare in Bulgaria"
 
+
 ## International congresses and postgraduate courses
 
 `1-2/12/2017`
@@ -427,6 +434,10 @@ Engaging in academic and instructional endeavors within a diverse setting encomp
 
 - Open Medical Institute (OMI) Seminar "Economic Evaluation in Healthcare"; Maastricht University program; Salzburg, Austria
 
+`5/04/2024`
+
+- 10th International Symposium - Health Technology Assessment and Neonatal Screening, Sofia, Bulgaria. Sofia
+
 `03-09/12/2023`
 
 -   Оpen Medical Institute (OMI) Seminar “Public Health Stategy - I”; Maastricht University program; Salzburg, Austria, Certificate of excellent presentation 
@@ -439,6 +450,9 @@ Engaging in academic and instructional endeavors within a diverse setting encomp
 
 -  [OpenAQ Community Ambassador Program](https://openaq.org/about/people/kostadin-kostadinov/). The OpenAQ program includes a comprehensive curriculum on ambient air pollution, air quality monitoring, data transparency, data access, data analysis, participatory research and community engagement.
 
+`26/05/2024 - 01/06/2024`
+
+- Оpen Medical Institute (OMI) Seminar “Public Health Stategy - II”; Maastricht University program; Salzburg, Austria, Sertificate of excellent presentation 
 
 ## National postgraduate courses
 
