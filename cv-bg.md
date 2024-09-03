@@ -7,9 +7,9 @@ nocite: |
    @*
 format:
   pdf:
-    mainfont: Aptos
-    monofont: Aptos
-    sansfont: Aptos
+    mainfont: Sofia Sans Condensed
+    monofont: Sofia Sans Condensed
+    sansfont: Sofia Sans Condensed
     fontsize: 12pt
 geometry:  margin=0.8in
 ---
