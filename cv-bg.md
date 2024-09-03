@@ -380,7 +380,7 @@ geometry:  margin=0.8in
 
 - 4th Fair Pricing Forum; World Health Organisation
 
-`04/2024 - 09/2024`
+`април 2024 - октомври 2024`
 
 -  [OpenAQ Community Ambassador Program](https://openaq.org/about/people/kostadin-kostadinov/). The OpenAQ program includes a comprehensive curriculum on ambient air pollution, air quality monitoring, data transparency, data access, data analysis, participatory research and community engagement.
 
