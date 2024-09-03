@@ -7,9 +7,9 @@ nocite: |
    @*
 format:
   pdf:
-    mainfont: Sofia Sans Condensed
-    monofont: Sofia Sans Condensed
-    sansfont: Sofia Sans Condensed
+    mainfont: Veleka
+    monofont: Veleka
+    sansfont: Veleka
     fontsize: 12pt
 geometry:  margin=0.8in
 ---
@@ -29,15 +29,15 @@ geometry:  margin=0.8in
 
 `октомври 2021-септември 2022 г.`
 
--  Магистър „Икономика и финанси“, Стопански факултет, Софийски университет „Климент Охридски“
+-  Магистър „Икономика и финанси“ | Стопански факултет | Софийски университет „Климент Охридски“
 
 `октомври 2017-септември 2019 г.`
 
--  Магистър „Обществено здраве и здравен мениджмънт“, Факултет по обществено здраве, МУ-Пловдив
+-  Магистър „Обществено здраве и здравен мениджмънт“ | Факултет по обществено здраве | МУ-Пловдив
 
 `септември 2012-декември 2017 г.`
 
--  Магистър „Медицина“, Медицински факултет; МУ-Пловдив
+-  Магистър „Медицина“ | Медицински факултет | МУ-Пловдив
    
 --- 
 
@@ -52,14 +52,14 @@ geometry:  margin=0.8in
 `декември 2020-до момента`
 
 - СБАЛХБ „Медикус Алфа“ ЕООД
-    - Здравеопазване. Болнична и извънболнична медицинска помощ
+    - Здравеопазване | Болнична и извънболнична медицинска помощ
     - Лекар-ординатор
     - Диагностично-лечебна дейност в областта на вътрешните болести и кардиологията.
 
 `декември 2017-март 2020 г.`
 
 - УМБАЛ „Пловдив“ АД
-    - Здравеопазване. Болнична медицинска помощ
+    - Здравеопазване | Болнична медицинска помощ
     - Лекар специализант
     - Диагностично-лечебна дейност в областта на вътрешните болести и кардиологията.
 
@@ -105,13 +105,7 @@ geometry:  margin=0.8in
 
 `Английски език`
 
--  First Certificate in English (FCE) - Cambridge English Language Assessment 
-    - Reading C1
-    - Writing B2
-    - Use of English C1
-    - Listening B2
-    - Speaking C1
-
+First Certificate in English (FCE) - Cambridge English Language Assessment | Reading C1 | Writing B2 | Use of English C1 | Listening B2 | Speaking C1
 
 ## Социални
 
@@ -122,20 +116,14 @@ geometry:  margin=0.8in
 `Програмни езици и инструменти`
 
 -   *Data analysis*
-    **R**; Python; SPSS; SAS; STATA
-    
--   *Data mining*
-    **Orange**; SPSS Modeler
-    
--   *Data presentation*
-    **R**; Tableau; RAW; PowerBI 
-     
+    **R** | Python | SPSS | SAS | STATA | Orange | Jamovi | JASP
+
 -   *Други*
     **Linux**; R studio; MySQL; Latex; VS code; html; CSS; Quarto; Pandoc; Microsoft 365; Google Workspace
 
 ## Други
 
--   Свидетелство за управление на МПС, кат. В
+-   Свидетелство за управление на МПС | кат. В
 
 ---
 
@@ -181,7 +169,7 @@ geometry:  margin=0.8in
 
 `септември 2021 г.` 
 
--   “Бърза микробиологична диагноза на генитални инфекции при жени и мъже – сравнителен анализ” № НО-03/2020 (НО-Р-8445) . Научноизследователски проект, финансиран по Наредба на МОН от 01.01.2017 г. за условията и реда за планиране, разпределение и разходване на средствата, отпускани целево от държавния бюджет за присъщата на висшите училища научна или художествено-творческа дейност.
+-   “Бърза микробиологична диагноза на генитални инфекции при жени и мъже – сравнителен анализ” № НО-03/2020 (НО-Р-8445). Научноизследователски проект, финансиран по Наредба на МОН от 01.01.2017 г. за условията и реда за планиране, разпределение и разходване на средствата, отпускани целево от държавния бюджет за присъщата на висшите училища научна или художествено-творческа дейност.
 
 `септември 2022 г.` 
 
@@ -237,9 +225,9 @@ geometry:  margin=0.8in
 
 `2018-2019 г.`
 
-- ApoA-I Event reducinG in Ischemic Syndromes II (AEGIS II); Study Coordinator
+- ApoA-I Event reducinG in Ischemic Syndromes II (AEGIS II) | Study Coordinator
 
-- ATRIAL FIBRILLATION INTEGRATED APPROACH IN FRAIL, MULTIMORBID, AND POLYMEDICATED OLDER PEOPLE (AFFIRMO); Monitor
+- Atrial fibrillation integrated approach in frail, multimorbid, and polymedicated older people (AFFIRMO) | Monitor
 
 ---
 
@@ -249,74 +237,73 @@ geometry:  margin=0.8in
 
 `27-29 септември 2019 г.`
 
--   11-та научна среща-обучение на СОИБОМ ***„Пътят на пациента със сърдечно-съдови заболявания“ Орална презентация „Клиничен случай на клапно предсърдно мъждене“*** **К.Костадинов**
+-   11-та научна среща-обучение на СОИБОМ | *„Пътят на пациента със сърдечно-съдови заболявания“* | Орална презентация |„*Клиничен случай на клапно предсърдно мъждене*“ 
 
 `28 ноември 2020 г.`
 
--   Виртуален конгресен център „Редки болести и лекарства сираци" ***[„Придобита тромботична тромбоцитопенична пурпура по пътя на предизвикателствата“](https://youtu.be/R_UbvDcyTxs)*** **К.Костадинов**
+-   Виртуален конгресен център „Редки болести и лекарства сираци" | *[„Придобита тромботична тромбоцитопенична пурпура по пътя на предизвикателствата“](https://youtu.be/R_UbvDcyTxs)* 
 
 `09-11 март 2021 г.`
 
 -   Конференцията Наука и Младост 2021 
 
-1. „***Промяна в хранителните навици и поведение по време на противоепидемичните мерки, наложени по повод COVID 19***“. Пленарна лекция. Хубенова М. **Костадинов К.** Мандова В.
+1. „*Промяна в хранителните навици и поведение по време на противоепидемичните мерки, наложени по повод COVID 19*“. Пленарна лекция. | Хубенова М. **Костадинов К.** Мандова В.
 
-2. „***Промяна в физическата активност в условията на противоепидемични мерки***“ Пленарна лекция **Костадинов К.** Хубенова М. Мандова В.
+2. „*Промяна в физическата активност в условията на противоепидемични мерки*“ Пленарна лекция **Костадинов К.** Хубенова М. Мандова В.
 
-3. ***[„Oral health self-assessment among haemophilia families“](https://asclepius.bg/cnm/wp-content/uploads/2022/05/Sbornik-Nauka-i-Mladost-2021.pdf)*** Victoria Mandova, **Kostadin Kostadinov**, Rumen Stefanov
+3. *[„Oral health self-assessment among haemophilia families“](https://asclepius.bg/cnm/wp-content/uploads/2022/05/Sbornik-Nauka-i-Mladost-2021.pdf)* | Victoria Mandova, **Kostadin Kostadinov**, Rumen Stefanov
 
 `13-14 май 2021 г.`
 
 -   XIV-та национална научно-техническа конференция с чуждестранно участие "Екология и здраве“
 
-1. ***[„Съвременен микробиологичен и молекулно-биологичен скрининг на генитални инфекции при симптоматични небременни жени“](https://hst.bg/ECOLOGY%20AND%20HEALTH%202021.pdf)*** Ели Христозова, Зоя Рачковска, Тихомир Дерменджиев, Мариана Мурджева, Вида Георгиева, Екатерина Учикова, **Костадин Костадинов** – МУ Пловдив“
+1. *[„Съвременен микробиологичен и молекулно-биологичен скрининг на генитални инфекции при симптоматични небременни жени“](https://hst.bg/ECOLOGY%20AND%20HEALTH%202021.pdf)* | Ели Христозова, Зоя Рачковска, Тихомир Дерменджиев, Мариана Мурджева, Вида Георгиева, Екатерина Учикова, **Костадин Костадинов** | МУ Пловдив“
 
 `14-16 септември 2021 г.`
 
--   XVIII хационален конгрес по клинична микробиология и инфекции на българската асоциация на микробиолозите  ***„Бърз молекулно-биологичен скрининг за вагинална кандидоза при симптоматични жени“*** Христозова Е., Рачковска , Георгиева В., Дерменджиев Т., **Костадинов К.**, Влахова М., Учикова Е. ,Мурджева М. (постер) 
+-   XVIII национален конгрес по клинична микробиология и инфекции на българската асоциация на микробиолозите | *„Бърз молекулно-биологичен скрининг за вагинална кандидоза при симптоматични жени“* | Христозова Е., Рачковска , Георгиева В., Дерменджиев Т., **Костадинов К.**, Влахова М., Учикова Е. ,Мурджева М. | Постер
 
 `15-16 септември 2022 г.`
 
 -   XX Юбилеен национален конгрес по клинична микробиология и инфекции на българската асоциация на микробиолозите
 
-1. ***[„Проучване уретралния микробиом с androflor screen при мъже с неспециф ична генитална симптоматика в условия на covid-19 пандемия“](https://www.bam-bg.net/images/documents/3Posters.pdf)*** E. Христозова, Т. Дерменджиев, З. Рачковска, В. Георгиева, **К. Костадинов**, Ц. Павлов, М. Мурджева (вкл. в Сборник с научни трудове) 
+1. *[„Проучване уретралния микробиом с androflor screen при мъже с неспециф ична генитална симптоматика в условия на covid-19 пандемия“](https://www.bam-bg.net/images/documents/3Posters.pdf)* | E. Христозова, Т. Дерменджиев, З. Рачковска, В. Георгиева, **К. Костадинов**, Ц. Павлов, М. Мурджева | в Сборник с научни трудове
 
-2. ***[„Omicron – успокоение или предизвикателство?“](https://www.bam-bg.net/images/documents/2Abstracts.pdf)*** М. Атанасова, Н. Корсун, Р. Комитова, **К. Костадинов**, И. Алексиев, Р. Райчева, И. Иванов, Л. Гломб, Ц.Петкова, Л. Джоглова (вкл. в Сборник с научни трудове) 
+2. *[„Omicron – успокоение или предизвикателство?“](https://www.bam-bg.net/images/documents/2Abstracts.pdf)* | М. Атанасова, Н. Корсун, Р. Комитова, **К. Костадинов**, И. Алексиев, Р. Райчева, И. Иванов, Л. Гломб, Ц.Петкова, Л. Джоглова | вкл. в Сборник с научни трудове)
 
 `30 септември - 01 октомври 2022 г.`
 
--   Четвърта национална конференция по епидемиология. „Инфекциозните заболявания в България- проблеми и перспективи” тема" ***„Ковид-19 в България и влияние на ваксините върху хоспитализацията, смъртността и леталитета“*** А. Кеворкян, **К. Костадинов**, В. Рангелова, Р. Райчева, А. Кунчев, А. Сербезова
+-   Четвърта национална конференция по епидемиология | „Инфекциозните заболявания в България- проблеми и перспективи” | тема" *„Ковид-19 в България и влияние на ваксините върху хоспитализацията, смъртността и леталитета“* | А. Кеворкян, **К. Костадинов**, В. Рангелова, Р. Райчева, А. Кунчев, А. Сербезова
 
 `16 декември 2022 г.`
 
--  Годишна научна конференция по имунология, Българска асоциация по клинична имунология. ***„Ефекти на ДХЕА като стреоиден прекурсор върху имунологичната реактивност при различни професионални групи в дистрес.“*** Мария Ивановска, Петя Ангелова Гарджева, Дора Димитрова Терзиева, Нонка Георгиева Матева, **Костадин Рангелов Костадинов**, Теодора Миткова Калфова , Мариана Атанасова Мурджева (постер-доклад). 
+-  Годишна научна конференция по имунология, Българска асоциация по клинична имунология. | *„Ефекти на ДХЕА като стреоиден прекурсор върху имунологичната реактивност при различни професионални групи в дистрес.“* | Мария Ивановска, Петя Ангелова Гарджева, Дора Димитрова Терзиева, Нонка Георгиева Матева, **Костадин Рангелов Костадинов**, Теодора Миткова Калфова , Мариана Атанасова Мурджева | постер-доклад
 
 `19-21 април 2024 г.`
 
--   Конференцията Наука и Младост 2021. ***[Assessment of antimicrobial susceptibility of staphylococcus aureus nasal isolates from preclinical medical students at the medical university of Plovdiv](https://asclepius.bg/cnm/wp-content/uploads/2024/04/SY-DMS-2024-abstracts-web.pdf)*** Aras Budak, **Kostadin Kostadinov**, Radoslav Tashev, Eli Hristozova
+-   Конференцията Наука и Младост 2021. *[Assessment of antimicrobial susceptibility of staphylococcus aureus nasal isolates from preclinical medical students at the medical university of Plovdiv](https://asclepius.bg/cnm/wp-content/uploads/2024/04/SY-DMS-2024-abstracts-web.pdf)* | Aras Budak, **Kostadin Kostadinov**, Radoslav Tashev, Eli Hristozova
 
 ## Международни
 
 `20 - 23 октомври 2022 г.`
 
--   Joint Forum: 12th South-East European Conference and 32st Annual Assembly of IMAB.  ***„Antimicrobical activity of root canal filling materials for endodonic treatment in primary dentition“*** Maria Shindova, Eli Hristozova, Plamen Katsarov, Michael Onov, **Kostadin Kostadinov**, Vasko Toplev, Ani Belcheva
+-   Joint Forum: 12th South-East European Conference and 32st Annual Assembly of IMAB. | *„Antimicrobical activity of root canal filling materials for endodonic treatment in primary dentition“* | Maria Shindova, Eli Hristozova, Plamen Katsarov, Michael Onov, **Kostadin Kostadinov**, Vasko Toplev, Ani Belcheva
 
 `6-9 ноември 2022 г.`
 
-- [Delay of Innovative Oncology Treatments - Case From Bulgaria](https://www.ispor.org/heor-resources/presentations-database/presentation/euro2022-3565/120960), Poster session, Raycheva R,**Kostadinov K**; 2022-11, ISPOR Europe 2022, Vienna, Austria; Value in Health, Volume 25, Issue 12S (December 2022)
+- [Delay of Innovative Oncology Treatments - Case From Bulgaria](https://www.ispor.org/heor-resources/presentations-database/presentation/euro2022-3565/120960) | Poster session, Raycheva R,**Kostadinov K**; 2022-11 | ISPOR Europe 2022 | Vienna, Austria
 
 `15 - 18 април 2023 г.`
 
-- 33-rd European Congress of Clinical Microbiology and Infectious Diseases ***„Impact of COVID-19 vaccines – data from Bulgaria“*** Ani Kevorkyan, **Kostadin Kostadinov**, Vania Rangelova, Ralitsa Raycheva , Angel Kunchev
+- 33-rd European Congress of Clinical Microbiology and Infectious Diseases | *„Impact of COVID-19 vaccines – data from Bulgaria“* | Ani Kevorkyan, **Kostadin Kostadinov**, Vania Rangelova, Ralitsa Raycheva , Angel Kunchev
 
 `4-11 март 2023 г.`
 
-- 41th European Winter Conference on brain research (EWCBR); ***Immunological reactivity under acute and chronic stress. Where are we? Experience in Bulgariа.*** M. Ivanovska, T. Kalfova, P. Gаrdjeva, **K. Kostadinov**, M. Murdjeva
+- 41th European Winter Conference on brain research (EWCBR) | *Immunological reactivity under acute and chronic stress. Where are we? Experience in Bulgariа.* | M. Ivanovska, T. Kalfova, P. Gаrdjeva, **K. Kostadinov**, M. Murdjeva
 
 `14 септември 2023 г.`
 
-- Webinar: EU Health Technology Assessment Regulation. The role and involvement of Cancer Patients. ***Landscape of Bulgarian HTA regulations***. **Kostadinov K**. Belgium. 
-
+- Webinar: EU Health Technology Assessment Regulation. | The role and involvement of Cancer Patients. | *Landscape of Bulgarian HTA regulations*. **Kostadinov K**. Belgium. 
 
 ---
 
@@ -326,27 +313,32 @@ geometry:  margin=0.8in
 
 `24-25 септември 2011 г.`
 
-- Медицински университет Пловдив „Спешна помощ в медицината“ НО-17/2011 гр. Пловдив 22-23. ноември. 2012г. Национална програма за превенция и контрол на ХИВ и сексуално предавани инфекции в Република България 2008-2015г. „Лечение и грижи за хора, живеещи с ХИВ/СПИН и намаляване на стигмата и дискриминацията“ гр. Пловдив
+- Медицински университет Пловдив | „Спешна помощ в медицината“ | гр. Пловдив 
+
+
+` 22-23. ноември. 2012 г.` 
+
+- Национална програма за превенция и контрол на ХИВ и сексуално предавани инфекции в Република България 2008-2015г. | „Лечение и грижи за хора, живеещи с ХИВ/СПИН и намаляване на стигмата и дискриминацията“ гр. Пловдив
 
 `16 декември 2012 г.`
 
-- Токуда болница София „Основни хирургически умения“
+- Токуда болница София | „Основни хирургически умения“
 
 `20-21 октомври 2014 г.`
 
-- Програма финансирана от Глобалния фонд за борба срещу СПИН, туберкулоза и малария „Диагностика, грижи и лечение на хора живеещи с ХИВ/СПИН (ХЖХС) за нуждите на ПФГФ“ гр. Пловдив
+- Програма финансирана от Глобалния фонд за борба срещу СПИН, туберкулоза и малария | „Диагностика, грижи и лечение на хора живеещи с ХИВ/СПИН (ХЖХС) за нуждите на ПФГФ“ | гр. Пловдив
 
 `24-28 април 2017 г.`
 
-- Национален институт по радиобиология и радиационна защита „Медицинско осигуряване при радиационни, ядрени аварии и тероризъм аварийна готовност“ гр. София
+- Национален институт по радиобиология и радиационна защита | „Медицинско осигуряване при радиационни, ядрени аварии и тероризъм аварийна готовност“ | гр. София
 
 `15-17 юли 2018 г.`
 
-- Научен симпозиум „Остър коронарен синдром“ гр. Пловдив
+- Научен симпозиум | „Остър коронарен синдром“ | гр. Пловдив
 
 `7-9 ноември 2019 г.`
 
-- Научен симпозиум „Тахиаритмии и синкоп“ 22-23. ноември.2019г. Трето училище по ехокардиография. гр. София „Нови ехографски методи в кардиологията“
+- Научен симпозиум | „Тахиаритмии и синкоп“ 22-23. ноември.2019 г. 
 
 `1-2 декември 2022 г.`
 
@@ -356,51 +348,55 @@ geometry:  margin=0.8in
 
 `1-2 декември 2017 г.`
 
-- Critical appraisal course, гр. София CPD
+- Critical appraisal course | гр. София CPD
 
 `27 март 2021 г.`
 
-- 8th annual symposium „HTA assessment -- strategies for accelerated access“ Institute for Rare Diseases
+- 8th annual symposium | „HTA assessment -- strategies for accelerated access“ | Institute for Rare Diseases
 
 `10-15 октомври 2022 г.`
 
-- Open Medical Institute (OMI) Seminar „Economic Evaluation in Healthcare“; Maastricht University program; Salzburg, Austria
+- Open Medical Institute (OMI) Seminar | „Economic Evaluation in Healthcare“ | Maastricht University program | Salzburg, Austria
 
 
 `5 април 2024 г.`
 
-- 10-ти Международен симпозиум – Оценка на здравни технологии и неонатален скрининг, гр. София
+- 10-ти Международен симпозиум – Оценка на здравни технологии и неонатален скрининг | гр. София
 
 
 `03-09 декември 2023 г.`
 
-- Open Medical Institute (OMI) Seminar „Public Health Strategy - I“; Maastricht University program; Salzburg, Austria, Certificate of excellent presentation 
+- Open Medical Institute (OMI) Seminar | „Public Health Strategy - I“ | Maastricht University program | Salzburg, Austria, | Certificate of excellent presentation 
 
 `6-8 февруари 2024 г.`
 
-- 4th Fair Pricing Forum; World Health Organisation
+- 4th Fair Pricing Forum | World Health Organisation
 
 `април 2024 - октомври 2024`
 
--  [OpenAQ Community Ambassador Program](https://openaq.org/about/people/kostadin-kostadinov/). The OpenAQ program includes a comprehensive curriculum on ambient air pollution, air quality monitoring, data transparency, data access, data analysis, participatory research and community engagement.
+-  [OpenAQ Community Ambassador Program](https://openaq.org/about/people/kostadin-kostadinov/). | The OpenAQ program includes a comprehensive curriculum on ambient air pollution, air quality monitoring, data transparency, data access, data analysis, participatory research and community engagement.
 
 `26 май - 01 юни 2024 г.`
 
-- Open Medical Institute (OMI) Seminar “Public Health Strategy - II“; Maastricht University program; Salzburg, Austria, Certificate of excellent presentation 
+- Open Medical Institute (OMI) Seminar | “Public Health Strategy - II“ | Maastricht University program | Salzburg, Austria, Certificate of excellent presentation 
 
 ## Квалификации
 
 `10 ноември 2017 г.`
 
-- Национална кардиологична болница „Ехокардиографска оценка на сърдечна функция“
+- Национална кардиологична болница | „Ехокардиографска оценка на сърдечна функция“
 
 `19-20 октомври 2018 г.`
 
-- Първо училище по ехокардиография. гр. София Въведение в ехокадиографската диагностика
+- Първо училище по ехокардиография | Въведение в ехокадиографската диагностика
 
 `22-23 февруари 2019 г.`
 
-- Второ училище по ехокардиография гр. София Ехографска оценка на вродени и придобити сърдечносъдови заболявания
+- Второ училище по ехокардиография | Ехографска оценка на вродени и придобити сърдечносъдови заболявания
+
+`24-25 октомври 2019 г.`
+
+Трето училище по ехокардиография | гр. София | „Нови ехографски методи в кардиологията“
 
 `22-26 март 2021 г.`
 
@@ -408,9 +404,9 @@ geometry:  margin=0.8in
 
 `март 2020 г.`
 
-- English for academic purposes, Ирина Митърчева, дф; Департамент по езиково обучение (ДЕСО), МУ-Пловдив 
+- English for academic purposes | Ирина Митърчева, дф | Департамент по езиково обучение (ДЕСО), МУ-Пловдив 
 
-- Езикови въпроси на научния и медицински текст| Департамент по езиково обучение (ДЕСО) | МУ-Пловдив, Доц. Милиева, дф
+- Езикови въпроси на научния и медицински текст | Департамент по езиково обучение (ДЕСО) | МУ-Пловдив | Доц. Милиева, дф
 
 `юни 2021 г.` 
 
