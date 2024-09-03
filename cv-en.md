@@ -1,13 +1,17 @@
 ---
 title: "CURRICULUM VITAE"
 author: "Kostadin Rangelov Kostadinov, MD, MPH, MEcon"
+bibliography: referencelist.bib
+csl: "plos-medicine.csl"
+nocite: |
+   @*
 format:
- pdf:
-  mainfont:  Sofia Sans Condensed
-  sansfont:  Sofia Sans Condensed
-  monofont:  Sofia Sans Condensed
-  fontsize:  13pt
-  geometry: margin=0.8in
+  pdf:
+    mainfont: Aptos
+    monofont: Aptos
+    sansfont: Aptos
+    fontsize: 12pt
+geometry:  margin=0.8in
 ---
 
 [drkostadinkostadinov@gmail](https://drkostadinkostadinov@gmail.com) \| [GitHub](https://github.com/kostadinoff) \| [Twitter](https://twitter.com/kostadinoffMD) \| [Linkedin](https://linkedin.com/in/kostadinovmd) \| [ORCID](https://orcid.org/0000-0003-1414-8738)
@@ -48,15 +52,15 @@ format:
 
 `12/2020-present`
 
-- Clinic "Medicus Alpha
-  - Health. Inpatient and outpatient care
+- Clinic "Medicus Alpha"
+  - Healthcare.
   - Physician 
   - Diagnostic and therapeutic activity in the field of internal medicine and cardiology.
 
 `12/2017-03/2020`.
 
 - University Hospital "Plovdiv"
-  - Healthcare. Hospital care
+  - Healthcare.
   - Resident doctor
   - Diagnostic and therapeutic activity in the field of internal medicine and cardiology.
 
@@ -72,11 +76,11 @@ format:
 	
 `2011-2017`
 
-- Student Council President, President of the GA
+- Student Council President | President of the GA
 
 `2012-2017`
 
-- Association of Medical Students in Bulgaria;  Chairman of the Control Council; Secretary
+- Association of Medical Students in Bulgaria | Chairman of the Control Council; Secretary
 
 ---
 
@@ -84,7 +88,19 @@ format:
 
 ## Teaching
 
-Teaching in the disciplines of medical ethics; epidemiology and biostatistics; social medicine and public dental health. 
+- Winter semester 2021/22: Biostatistics | Medical Ethics | Public Dental Health
+
+- Summer semester 2021/22: Social Medicine and Public Health
+
+- Winter semester 2022/23: Biostatistics | Medical Ethics | Public Dental Health
+
+- Summer semester 2022/23: Social Medicine and Public Health
+
+- Winter semester 2023/24: Biostatistics | Medical Ethics | Public Dental Health | Clinical Trial Design and Non-Interventional Studies
+
+- Summer semester 2023/24: Social Medicine and Public Health
+
+- Winter semester 2024/25: Biostatistics | Medical Ethics | Public Dental Health | Clinical Trial Design and Non-Interventional Studies 
 
 ## Language
 
@@ -154,72 +170,11 @@ Engaging in academic and instructional endeavors within a diverse setting encomp
 
 # Publications
 
-## Textbooks
+::: {#refs}
 
-- Ani Kevorkian, **Kostadin Kostadinov**, Vanya Rangelova, Ralitsa Raicheva. ***COVID-19 in Bulgaria. Epidemiological Analysis***, University Publishing House "Paisii Hilendarski", 2023; ISBN 978-619-202-922-7; Reviewers. J. Stoilova, PhD; Prof. Dr. Oliana Boykinova, PhD
+\nocite{*}
 
-## Abstracts in English 
-
-- Raycheva, R., and **K. Kostadinov**. ***“Тhe price of innovation – oncology treatments expenditures: Case from Bulgaria.***“ Value in Health, vol. 26, no. 6, Supplement, Jun. 2023, pp. S260–10. ScienceDirect,<https://doi.org/10.1016/j.jval.2023.03.1436>
-
-- Raycheva, R., and **K. Kostadinov**. ***“Delay of Innovative Oncology Treatments - Case From Bulgaria.”*** Value in Health, vol. 25, no. 12, Supplement, Dec. 2022, pp. S309–10. ScienceDirect, <https://doi.org/10.1016/j.jval.2022.09.1529>
-
-
-## Full-text articles in English 
-
-- **Kostadinov, K.**, Popova-Sotirova, I., Marinova, Y., Musurlieva, N., Iskrov, G., & Stefanov, R. (2024). ***Availability and access to orphan drugs for rare cancers in bulgaria: Analysis of delays and public expenditures***. Cancers, 16(8), 1489. <https://doi.org/10.3390/cancers16081489>
-
-- Raycheva, R., **Kostadinov, K.**, Mitova, E., Iskrov, G., Stefanov, G., Vakevainen, M., Elomaa, K., Man, Y.-S., Gross, E., Zschüntzsch, J., Röttger, R., & Stefanov, R. (2024). ***Landscape analysis of available European data sources amenable for machine learning and recommendations on usability for rare diseases screening***. Orphanet Journal of Rare Diseases, 19(1), 147. <https://doi.org/10.1186/s13023-024-03162-5>
-
-- **Kostadinov, K.**, Yuliyana M., Dimitrov K., Hristova-Atanasova E., Iskrov, E., Stefanov R. ***“Navigating Gene Therapy Access: The Case of Bulgaria in the Context of the EU Regulatory Landscape.”*** Healthcare 12, no. 4 (January 2024): 458. <https://doi.org/10.3390/healthcare12040458>
-
-- Iskrov, G., Raycheva, R., **Kostadinov, K.**, Gillner, S., Blankart, C. R., Gross, E. S., Gumus, G., Mitova, E., Stefanov, S., Stefanov, G., & Stefanov, R. (2024). ***Are the European reference networks for rare diseases ready to embrace machine learning? A mixed-methods study.*** Orphanet Journal of Rare Diseases, 19(1), 25.  <https://doi.org/10.1186/s13023-024-03047-7>
-
-- Nicolas Garnier, Joanne Berghout, Aldona Zygmunt, Deependra Singh, Kui A Huang, Waltraud Kantz, Carl Rudolf Blankart, Sandra Gillner, Jiawei Zhao, Richard Roettger, Christina Saier, Jan Kirschner, Joern Schenk, Leon Atkins, Nuala Ryan, Kaja Zarakowska, Jana Zschüntzsch, Michela Zuccolo, Matthias Müllenborn, Yuen-Sum Man, Liz Goodman, Marie Trad, Anne Sophie Chalandon, Stefaan Sansen, Maria Martinez-Fresno, Shirlene Badger, Rudolf Walther van Olden, Robert Rothmann, Patrick Lehner, Christof Tschohl, Ludovic Baillon, Gulcin Gumus, Edith Gross, Rumen Stefanov, Georgi Iskrov, Ralitsa Raycheva, **Kostadin Kostadinov**, Elena Mitova, Moshe Einhorn, Yaron Einhorn, Josef Schepers, Miriam Hübner, Frauke Alves, Rowan Iskandar, Rudolf Mayer, Alessandra Renieri, Aneta Piperkova, Ivo Gut, Sergi Beltran, Mads Emil Matthiesen, Marion Poetz, Mats Hansson, Regina Trollmann, Emanuele Agolini, Silvia Ottombrino, Antonio Novelli, Enrico Bertini, Rita Selvatici, Marianna Farnè, Fernanda Fortunato, Alessandra Ferlini, ***"Genetic newborn screening and digital technologies: A project protocol based on a dual approach to shorten the rare diseases diagnostic path in Europe"*** PLOS ONE, 18(11), e0293503. <https://doi.org/10.1371/journal.pone.0293503>
-
-- K. Guevara and **K. Kostadinov**, ***“Neurological Soft Signs and Social Cognition in Patients with Schizophrenia: the Missing Link”***, C. R. Acad. Bulg. Sci. , vol. 76, no. 9, pp. 1440–1448, Oct. 2023. <https://doi.org/10.7546/CRABS.2023.09.15>
-
-- Raycheva, R., **Kostadinov, K.**, Mitova, E., Bogoeva, N., Iskrov, G., Stefanov, G., & Stefanov, R. (2023). ***Challenges in mapping European rare disease databases, relevant for ML-based screening technologies in terms of organizational, FAIR and legal principles: Scoping review.*** Frontiers in Public Health, 11. <https://www.frontiersin.org/articles/10.3389/fpubh.2023.1214766>
-
-- Peter Kelly, Mohamad M. Saab, Emma J. Hurley, Sinéad Heffernan, John Goodwin, Zamzaliza A. Mulud, Maria O Malley, James O Mahony, Margaret Curtin, Gunter Groen, Svetla Ivanova, Astrid Jörns-Presentati, Joonas Korhonen, **Kostadin Kostadinov**, Mari Lahti, Valentina Lalova, Gergana Petrova & Aine O Donovan. ***"Trauma Informed Interventions to Reduce Seclusion, Restraint and Restrictive Practices Amongst Staff Caring for Children and Adolescents with Challening Behaviours: A Systematic Review."*** Journ. Child Adol. Trauma (2023)". <https://doi.org/10.1007/s40653-023-00524-2>
-
-- Ignatova, Valentina, **Kostadin Kostadinov**, Evguenia Vassileva, Naira Muradyan, Georgi Stefanov, Georgi Iskrov, и Rumen Stefanov. ***"Socio-Economic Burden of Myasthenia Gravis: A Cost-of-Illness Study in Bulgaria"***. Frontiers in Public Health <https://doi.org/10.3389/fpubh.2022.822909>
-
-- F. Kiani, **K. Kostadinov**, R. . Stefanov, and V. Mandova, ***"Dentophobia-latent Component Factor Analysis of Dental Concerns Assessment Scale"***, Open Access Maced J Med Sci, vol. 11, no. E, pp. 53–58, Jan. 2023. <https://doi.org/10.3889/oamjms.2023.9749>, eISSN: 1857-9655
-
-## Full-text articles in Bulgarian 
-
-- Hubenova, M, **Kostadinov K**., ***"[Change in dietary habits during the anti-epidemic measures on the occasion of COVID-19"](https://cml.mu-sofia.bg/CML/assets/files/OM-1-2022-%D0%9A%D0%BE%D1%81%D1%82%D0%B0%D0%B4%D0%B8%D0%BD%20%D0%9A%D0%BE%D1%81%D1%82%D0%B0%D0%B4%D0%B8%D0%BD%D0%BE%D0%B2.pdf)***. journal. "General Medicine" no. 24, 2020; 23-29.
-
-- **Kostadinov, K.**, and N. Musurlieva. ***"Historical review of the definition of rare tumors in the context of health policies"***. Rare Diseases and Orphan Drugs, vol. 14, no. 2, Nov. 2023, pp. 6-12, <https://doi:10.36865/2023.v14i2.182>.
-
-- **Kostadinov, K.**, Stefanov, G., Iskrov, G. & Stefanov, R. ***Epidemiology of acquired thrombotic thrombocytopenic purpura.*** Rare Diseases and Orphan Drugs 11, 36-44 (2020).  Rare Diseases and Orphan Drugs, vol. 11, no. 3, Oct. 2020, pp. 36-44, <https://doi.org/10.36865/2020.v11i3.122>.
-
-- **Kostadinov K**, Musurlieva N. ***"Rare tumors in the light of new assisted reproduction techniques. "*** Journal of Medical Law and Healthcare 4/2023; 6-12, ISBN 2748-7070-4-2023
-
-## Articles in scientific proceedings
-
-- Ivan Atanasov, Venelina Dudulova, Gina Stoykova, Gergana Lengerova, **Kostadin Kostadinov**, Eleonora Hristova, Georgi Iskrov, Rumen Stefanov ***"Quality of life in South central region of Bulgaria - preliminary results by employment status from an EQ-5D study"*** Varna Medical Forum, Black sea Symposium for young scientists in biomedicine 2016 vol.5, no.1.
-
-- **Kostadinov K.**, Stefanova M., Delcheva G. Maneva, A. ***["Molecular mechanisms of endoplasmic stress"](https://asclepius.bg/cnm/wp-content/uploads/2022/05/mnd_2013.pdf)*** Proc. "Science and Youth, 2013, 327-340, ISSN 1314-9229
-
-- Е. Tsvetkov, **K. Kostadinov** ***["Survey of sexual culture and education among high school students"](https://asclepius.bg/cnm/wp-content/uploads/2022/05/mnd_2013.pdf)*** Proc. "Science and Youth, "Science and Youth, 2013, ISSN 1314-9229
-
-- Elizar Tsvetkov, **Kostadin Kostadinov**, Dancho Gurdev ***["Side effects of treatment of rheumatoid arthritis with cortisone drugs"](https://asclepius.bg/cnm/wp-content/uploads/2022/05/sbornik-2014.pdf)*** Proc. "Science and Youth,, 2014, ISSN 1314-9229
-
-- П. Selimov, R. Karalilova, I. Yakov, M. Geneva, A. Batalov, V. Popova, S. Terziyska, L. Stoyanova, M. Karagyozov, D. Gurdev, E. Tsvetkov, **K. Kostadinov** ***["Tophi in the hands and feet in chronic gout - a complication worsening the quality of life in affected patients](https://asclepius.bg/cnm/wp-content/uploads/2022/05/sbornik-2014.pdf)*** Proc. "Science and Youth,, 2014, ISSN 1314-9229
-
-- **Kostadin Kostadinov** , Elizar Tsvetkov, Niki Gurdev ***["Therapeutic strategies in the treatment of type II diabetes mellitus"](https://asclepius.bg/cnm/wp-content/uploads/2022/05/sbornik-2014.pdf)*** Proc. "Science and Youth,, 2014, ISSN 1314-9229
-
-- **Kostadinov, K.** Tsvetkov, E. Yankov, I. ***Eosinofic esophagitis - is the incidence of disease really increased in children?*** March 2016 2-nd National conference of Young Gastroenterologists, University Hospital "Tsariza Yoana", Sofia
-
-- Eleonora Hristova,Ivan Atanasov, Venelina Dudulova, Gergana Lengerova, **Kostadin Kostadinov**, Georgi Iskrov , Rumen Stefanov ***["Quality of life in the Southwest region - preliminary results by sex and age from a representative survey with EQ-5D"](https://asclepius.bg/cnm/wp-content/uploads/2022/05/Sbornik-nauka-i-mladost-2016.pdf)*** Proc. "Science and Youth, 2016, ISSN 1314-9229
-
-- **Kostadinov, K.** Tsvetkov, E. Yankov, I. ***Cerebral palsy associated with Cystic Fibrosis*** - RBLS, R. (2019). 9th National Conference on Rare Diseases and Orphan Drugs - Proceedings of presentations and posters. Rare Diseases and Orphan Drugs, 9(2). <https://doi.org/10.36865/2018.v9i2.93>
-
-- **Kostadinov K**, Kehayov D, Tsvetkov E, Kondareva R, Khavalyova A, Hristova E. ***Granulomatosis vegenera- clinical aspects, diagnosis and pathomorphology.*** RBLS, R. (2019). 6th National Conference on Rare Diseases and Orphan Drugs - Proceedings. Rare diseases and orphan drugs, 6(1). <https://doi.org/10.36865/2015.v6i1.92>
-
-- **Kostadinov K**, Kehayov D, Tsvetkov E, Kondareva R, Havalyova A, Hristova E. ***Extrapulmonary sarcoidosis-a clinical case of a 13-year-old boy.*** RBLS, R. (2019). 6th National Conference on Rare Diseases and Orphan Drugs - Proceedings. Rare Diseases and Orphan Drugs, 6(1). <https://doi.org/10.36865/2015.v6i1.92>
+:::
 
 ---
 
@@ -440,7 +395,7 @@ Engaging in academic and instructional endeavors within a diverse setting encomp
 
 `03-09/12/2023`
 
--   Оpen Medical Institute (OMI) Seminar “Public Health Stategy - I”; Maastricht University program; Salzburg, Austria, Certificate of excellent presentation 
+-   Open Medical Institute (OMI) Seminar “Public Health Strategy - I”; Maastricht University program; Salzburg, Austria, Certificate of excellent presentation 
 
 `6-8/02/2024`
 
@@ -452,7 +407,7 @@ Engaging in academic and instructional endeavors within a diverse setting encomp
 
 `26/05/2024 - 01/06/2024`
 
-- Оpen Medical Institute (OMI) Seminar “Public Health Stategy - II”; Maastricht University program; Salzburg, Austria, Sertificate of excellent presentation 
+- Open Medical Institute (OMI) Seminar “Public Health Strategy - II”; Maastricht University program; Salzburg, Austria, Certificate of excellent presentation 
 
 ## National postgraduate courses
 
