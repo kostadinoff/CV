@@ -7,14 +7,21 @@ nocite: |
    @*
 format:
   pdf:
-    mainfont: Veleka
-    monofont: Veleka
-    sansfont: Veleka
+    mainfont: Sofia Sans Condensed
+    monofont: Sofia Sans Condensed
+    sansfont: Sofia Sans Condensed
     fontsize: 12pt
 geometry:  margin=0.8in
 ---
 
-<div style="text-align:center"> [drkostadinkostadinov@gmail](https://drkostadinkostadinov@gmail.com) \| [GitHub](https://github.com/kostadinoff) \| [Twitter](https://twitter.com/kostadinoffMD) \| [Linkedin](https://linkedin.com/in/kostadinovmd) \| [ORCID](https://orcid.org/0000-0003-1414-8738) </div>
+\begin{center}
+    \href{mailto:drkostadinkostadinov@gmail.com}{Email} \ | 
+    \href{https://github.com/kostadinoff}{GitHub} \ | 
+    \href{https://twitter.com/kostadinoffMD}{Twitter} \ | 
+    \href{https://linkedin.com/in/kostadinovmd}{LinkedIn} \ |
+    \href{https://orcid.org/0000-0003-1414-8738}{ORCID} \ | 
+    \href{https://kostadinoff.github.io}{Website}
+\end{center}
 
 # Лични данни
 
@@ -26,6 +33,14 @@ geometry:  margin=0.8in
 ---
 
 # Образование
+
+`декември 2021-до момента`
+
+-  Редовен докторант | Катедра „Социална медицина и обществено здраве“ | МУ-Пловдив | „Здравни политики в областта на редките тумори“
+
+`октомври 2024-до момента`
+
+- Магистър „Статистическо бизнес консултиране“ | Стопанска академия „Димитър А. Ценов“ гр. Свищов 
 
 `октомври 2021-септември 2022 г.`
 
@@ -43,25 +58,26 @@ geometry:  margin=0.8in
 
 # Трудов стаж
 
+`октомври 2024-до момента`
+
+- МУ-Пловдив | Млад учен - изследовател R1 | Изследователска група (ИГ) 3.1.5 – „Здраве и качество на живот в зелена и
+устойчива околна среда“ | „Програма за стратегически изследвания и иновации за развитие на МУ-Пловдив“ | Договор: BG-RRP-2.004-0007-C01 от 31.12.2022 г.
+
+`април 2022-до момента`
+
+- Специализант "Социална медицина и организация на здравеопазването и фармацията" | МУ-Пловдив
+
 `септември 2021-до момента`
 
--  МУ-Пловдив
-    - Асистент висше училище
-    - Учебно-практически занятия по дисциплините медицинска етика; биостатистика; социална медицина и обществено дентално здраве.
+-  МУ-Пловдив | Асистент висше училище | Учебно-практически занятия по дисциплините медицинска етика; биостатистика; социална медицина и обществено дентално здраве.
 
 `декември 2020-до момента`
 
-- СБАЛХБ „Медикус Алфа“ ЕООД
-    - Здравеопазване | Болнична и извънболнична медицинска помощ
-    - Лекар-ординатор
-    - Диагностично-лечебна дейност в областта на вътрешните болести и кардиологията.
+- СБАЛХБ „Медикус Алфа“ ЕООД | Лекар-ординатор | Здравеопазване | Болнична и извънболнична медицинска помощ
 
 `декември 2017-март 2020 г.`
 
-- УМБАЛ „Пловдив“ АД
-    - Здравеопазване | Болнична медицинска помощ
-    - Лекар специализант
-    - Диагностично-лечебна дейност в областта на вътрешните болести и кардиологията.
+- УМБАЛ „Пловдив“ АД | Лекар специализант | Здравеопазване | Болнична медицинска помощ
 
 ---
 
@@ -116,7 +132,7 @@ First Certificate in English (FCE) - Cambridge English Language Assessment | Rea
 `Програмни езици и инструменти`
 
 -   *Data analysis*
-    **R** | Python | SPSS | SAS | STATA | Orange | Jamovi | JASP
+    **R** | Python | SPSS | SAS | STATA | Orange | Jamovi | JASP | QGIS 
 
 -   *Други*
     **Linux**; R studio; MySQL; Latex; VS code; html; CSS; Quarto; Pandoc; Microsoft 365; Google Workspace
@@ -127,11 +143,11 @@ First Certificate in English (FCE) - Cambridge English Language Assessment | Rea
 
 ---
 
-# Членство в професионални организации
+# Членство в професионални и научни организации
 
 ## Национални
 
-`от 2016 г.` Младежко научно дружество „Асклепий“
+`от 2016 г.` Младежко научно дружество „Асклепий“ | Член на управителен съвет мандат 2024-2026 г.
 
 `от 2017 г.` Български лекарски съюз
 
@@ -151,6 +167,7 @@ First Certificate in English (FCE) - Cambridge English Language Assessment | Rea
 
 `от 2022 г.` Световна федерация на асоциациите по обществено здраве (WFPHA)
 
+
 ---
 
 # Публикации
@@ -169,7 +186,7 @@ First Certificate in English (FCE) - Cambridge English Language Assessment | Rea
 
 `септември 2021 г.` 
 
--   “Бърза микробиологична диагноза на генитални инфекции при жени и мъже – сравнителен анализ” № НО-03/2020 (НО-Р-8445). Научноизследователски проект, финансиран по Наредба на МОН от 01.01.2017 г. за условията и реда за планиране, разпределение и разходване на средствата, отпускани целево от държавния бюджет за присъщата на висшите училища научна или художествено-творческа дейност.
+-   „Бърза микробиологична диагноза на генитални инфекции при жени и мъже – сравнителен анализ” № НО-03/2020 (НО-Р-8445). Научноизследователски проект, финансиран по Наредба на МОН от 01.01.2017 г. за условията и реда за планиране, разпределение и разходване на средствата, отпускани целево от държавния бюджет за присъщата на висшите училища научна или художествено-творческа дейност.
 
 `септември 2022 г.` 
 
@@ -185,25 +202,19 @@ First Certificate in English (FCE) - Cambridge English Language Assessment | Rea
 
 ## Национални проекти
 
-`31 октомври 2013 г.` 
-
-- Проект BG05PO001-3.3.07-0002 „Студентски практики“
-
 `aприл 2021 г.` 
 
 - Национална научна програма „Млади учени и постдокторанти“ Р-322/08.03.2021
 
+`октомври 2024 г.` 
+
+- Изследователска група (ИГ) 3.1.5 – „Здраве и качество на живот в зелена и устойчива околна среда“ | „Програма за стратегически изследвания и иновации за развитие на МУ-Пловдив“ | Договор: BG-RRP-2.004-0007-C01 от 31.12.2022 г.
+
+`септември 2024 г.` 
+
+- Национална научна програма „Млади учени и постдокторанти - 2“
+
 ## Международни проекти
-
-
-`3-17 ноември 2013 г.`
-
-- Nuclear Pharmacy Integrated Course for Students in Pharmacy, Medicine, Medical Physics and Nuclear Chemistry (NuPhICos).Active participant. Erasmus Intensive Program Project 2013-1-BG-ERA10-00320
-
-
-`февруари. 2020 г.`
-
-- Promoters of advanced oncogenetics open online training and multimedia raise awareness on multidisciplinary assessment of patients and their families at risk of hereditary or familial cancerHOPE How Oncogenetics Predicts & Educates Erasmus+ program.2018-1-RO01-KA202-049189
 
 `март-май 2020 г.`
 
@@ -221,11 +232,11 @@ First Certificate in English (FCE) - Cambridge English Language Assessment | Rea
 
 - Developing multi-professional Higher Education for promoting mental health and well-being at schools Project Reference: 2020-1-FI01-KA203-066521
 
-## Клинични изпитвания
-
 `2018-2019 г.`
 
 - ApoA-I Event reducinG in Ischemic Syndromes II (AEGIS II) | Study Coordinator
+
+`2024-2026 г.`
 
 - Atrial fibrillation integrated approach in frail, multimorbid, and polymedicated older people (AFFIRMO) | Monitor
 
@@ -247,17 +258,15 @@ First Certificate in English (FCE) - Cambridge English Language Assessment | Rea
 
 -   Конференцията Наука и Младост 2021 
 
-1. „*Промяна в хранителните навици и поведение по време на противоепидемичните мерки, наложени по повод COVID 19*“. Пленарна лекция. | Хубенова М. **Костадинов К.** Мандова В.
+1. [„*Промяна в хранителните навици и поведение по време на противоепидемичните мерки, наложени по повод COVID 19*“](https://www.asclepius.bg/images/nm2021/%D0%9F%D0%A0%D0%9E%D0%93%D0%A0%D0%90%D0%9C%D0%90-%D0%9D%D0%90%D0%A3%D0%9A%D0%90-%D0%98-%D0%9C%D0%9B%D0%90%D0%94%D0%9E%D0%A1%D0%A2-2021.pdf) | Пленарна лекция. | Хубенова М. **Костадинов К.** Мандова В.
 
-2. „*Промяна в физическата активност в условията на противоепидемични мерки*“ Пленарна лекция **Костадинов К.** Хубенова М. Мандова В.
+2. [„*Промяна в физическата активност в условията на противоепидемични мерки*“](https://www.asclepius.bg/images/nm2021/%D0%9F%D0%A0%D0%9E%D0%93%D0%A0%D0%90%D0%9C%D0%90-%D0%9D%D0%90%D0%A3%D0%9A%D0%90-%D0%98-%D0%9C%D0%9B%D0%90%D0%94%D0%9E%D0%A1%D0%A2-2021.pdf) Пленарна лекция **Костадинов К.** Хубенова М. Мандова В.
 
 3. *[„Oral health self-assessment among haemophilia families“](https://asclepius.bg/cnm/wp-content/uploads/2022/05/Sbornik-Nauka-i-Mladost-2021.pdf)* | Victoria Mandova, **Kostadin Kostadinov**, Rumen Stefanov
 
 `13-14 май 2021 г.`
 
--   XIV-та национална научно-техническа конференция с чуждестранно участие "Екология и здраве“
-
-1. *[„Съвременен микробиологичен и молекулно-биологичен скрининг на генитални инфекции при симптоматични небременни жени“](https://hst.bg/ECOLOGY%20AND%20HEALTH%202021.pdf)* | Ели Христозова, Зоя Рачковска, Тихомир Дерменджиев, Мариана Мурджева, Вида Георгиева, Екатерина Учикова, **Костадин Костадинов** | МУ Пловдив“
+-   XIV-та национална научно-техническа конференция с чуждестранно участие "Екология и здраве“ | *[„Съвременен микробиологичен и молекулно-биологичен скрининг на генитални инфекции при симптоматични небременни жени“](https://hst.bg/ECOLOGY%20AND%20HEALTH%202021.pdf)* | Ели Христозова, Зоя Рачковска, Тихомир Дерменджиев, Мариана Мурджева, Вида Георгиева, Екатерина Учикова, **Костадин Костадинов** | МУ Пловдив“
 
 `14-16 септември 2021 г.`
 
@@ -269,19 +278,23 @@ First Certificate in English (FCE) - Cambridge English Language Assessment | Rea
 
 1. *[„Проучване уретралния микробиом с androflor screen при мъже с неспециф ична генитална симптоматика в условия на covid-19 пандемия“](https://www.bam-bg.net/images/documents/3Posters.pdf)* | E. Христозова, Т. Дерменджиев, З. Рачковска, В. Георгиева, **К. Костадинов**, Ц. Павлов, М. Мурджева | в Сборник с научни трудове
 
-2. *[„Omicron – успокоение или предизвикателство?“](https://www.bam-bg.net/images/documents/2Abstracts.pdf)* | М. Атанасова, Н. Корсун, Р. Комитова, **К. Костадинов**, И. Алексиев, Р. Райчева, И. Иванов, Л. Гломб, Ц.Петкова, Л. Джоглова | вкл. в Сборник с научни трудове)
+2. *[„Omicron – успокоение или предизвикателство?“](https://www.bam-bg.net/images/documents/2Abstracts.pdf)* | М. Атанасова, Н. Корсун, Р. Комитова, **К. Костадинов**, И. Алексиев, Р. Райчева, И. Иванов, Л. Гломб, Ц.Петкова, Л. Джоглова | вкл. в Сборник с научни трудове
 
 `30 септември - 01 октомври 2022 г.`
 
--   Четвърта национална конференция по епидемиология | „Инфекциозните заболявания в България- проблеми и перспективи” | тема" *„Ковид-19 в България и влияние на ваксините върху хоспитализацията, смъртността и леталитета“* | А. Кеворкян, **К. Костадинов**, В. Рангелова, Р. Райчева, А. Кунчев, А. Сербезова
-
-`16 декември 2022 г.`
-
--  Годишна научна конференция по имунология, Българска асоциация по клинична имунология. | *„Ефекти на ДХЕА като стреоиден прекурсор върху имунологичната реактивност при различни професионални групи в дистрес.“* | Мария Ивановска, Петя Ангелова Гарджева, Дора Димитрова Терзиева, Нонка Георгиева Матева, **Костадин Рангелов Костадинов**, Теодора Миткова Калфова , Мариана Атанасова Мурджева | постер-доклад
+-   Четвърта национална конференция по епидемиология | „Инфекциозните заболявания в България- проблеми и перспективи” | [*„Ковид-19 в България и влияние на ваксините върху хоспитализацията, смъртността и леталитета“*](http://bulepid.org/_upload2018/PROGRAMA%202022-pre-final%20-%20Copy.pdf) | А. Кеворкян, **К. Костадинов**, В. Рангелова, Р. Райчева, А. Кунчев, А. Сербезова
 
 `19-21 април 2024 г.`
 
 -   Конференцията Наука и Младост 2021. *[Assessment of antimicrobial susceptibility of staphylococcus aureus nasal isolates from preclinical medical students at the medical university of Plovdiv](https://asclepius.bg/cnm/wp-content/uploads/2024/04/SY-DMS-2024-abstracts-web.pdf)* | Aras Budak, **Kostadin Kostadinov**, Radoslav Tashev, Eli Hristozova
+
+`27-29 септември 2024 г.`
+
+-   Шеста национална конференция по епидемиология | „Предизвикателства в превенцията на инфекциозните болести” | [*„Оценка на професионални рискови екзпозиции и степента на прилагане на стандартни предпазни средства сред медицински персонал“*](http://bulepid.org/_upload2018/PROGRAMA%202024-final.pdf) | Велина Стоева, Христиана Бацелова, **Костадин Костадинов**, Кирил Атлиев
+
+`27-28 септември 2024 г.`
+
+-   Седма научна конференция с международно участие | „Общественото здраве: поглед към бъдещето” | [*„Повишаване на грижите ориентирани към пациента, чрез симулационно  обучение с очила за виртуална реалност“*](https://publisher.mu-plovdiv.bg/wp-content/uploads/published-online/public-health-conf/2024/abstract-book.html#p=56) | Гергана Петрова, **Костадин Костадинов**, Валентина Лалова, Светла Иванова
 
 ## Международни
 
@@ -291,7 +304,7 @@ First Certificate in English (FCE) - Cambridge English Language Assessment | Rea
 
 `6-9 ноември 2022 г.`
 
-- [Delay of Innovative Oncology Treatments - Case From Bulgaria](https://www.ispor.org/heor-resources/presentations-database/presentation/euro2022-3565/120960) | Poster session, Raycheva R,**Kostadinov K**; 2022-11 | ISPOR Europe 2022 | Vienna, Austria
+- [*Delay of Innovative Oncology Treatments - Case From Bulgaria*](https://www.ispor.org/heor-resources/presentations-database/presentation/euro2022-3565/120960) | Poster session, Raycheva R,**Kostadinov K**; 2022-11 | ISPOR Europe 2022 | Vienna, Austria
 
 `15 - 18 април 2023 г.`
 
@@ -303,7 +316,7 @@ First Certificate in English (FCE) - Cambridge English Language Assessment | Rea
 
 `14 септември 2023 г.`
 
-- Webinar: EU Health Technology Assessment Regulation. | The role and involvement of Cancer Patients. | *Landscape of Bulgarian HTA regulations*. **Kostadinov K**. Belgium. 
+- Webinar: EU Health Technology Assessment Regulation | The role and involvement of Cancer Patients | *Landscape of Bulgarian HTA regulations* | **Kostadinov K**. Belgium. 
 
 ---
 
@@ -314,7 +327,6 @@ First Certificate in English (FCE) - Cambridge English Language Assessment | Rea
 `24-25 септември 2011 г.`
 
 - Медицински университет Пловдив | „Спешна помощ в медицината“ | гр. Пловдив 
-
 
 ` 22-23. ноември. 2012 г.` 
 
@@ -332,59 +344,16 @@ First Certificate in English (FCE) - Cambridge English Language Assessment | Rea
 
 - Национален институт по радиобиология и радиационна защита | „Медицинско осигуряване при радиационни, ядрени аварии и тероризъм аварийна готовност“ | гр. София
 
-`15-17 юли 2018 г.`
-
-- Научен симпозиум | „Остър коронарен синдром“ | гр. Пловдив
-
-`7-9 ноември 2019 г.`
-
-- Научен симпозиум | „Тахиаритмии и синкоп“ 22-23. ноември.2019 г. 
-
-`1-2 декември 2022 г.`
-
-- Заключителна конференция по ННП „Електронно здравеопазване в България“
-
-## Международни обучения
-
-`1-2 декември 2017 г.`
-
-- Critical appraisal course | гр. София CPD
-
-`27 март 2021 г.`
-
-- 8th annual symposium | „HTA assessment -- strategies for accelerated access“ | Institute for Rare Diseases
-
-`10-15 октомври 2022 г.`
-
-- Open Medical Institute (OMI) Seminar | „Economic Evaluation in Healthcare“ | Maastricht University program | Salzburg, Austria
-
-
-`5 април 2024 г.`
-
-- 10-ти Международен симпозиум – Оценка на здравни технологии и неонатален скрининг | гр. София
-
-
-`03-09 декември 2023 г.`
-
-- Open Medical Institute (OMI) Seminar | „Public Health Strategy - I“ | Maastricht University program | Salzburg, Austria, | Certificate of excellent presentation 
-
-`6-8 февруари 2024 г.`
-
-- 4th Fair Pricing Forum | World Health Organisation
-
-`април 2024 - октомври 2024`
-
--  [OpenAQ Community Ambassador Program](https://openaq.org/about/people/kostadin-kostadinov/). | The OpenAQ program includes a comprehensive curriculum on ambient air pollution, air quality monitoring, data transparency, data access, data analysis, participatory research and community engagement.
-
-`26 май - 01 юни 2024 г.`
-
-- Open Medical Institute (OMI) Seminar | “Public Health Strategy - II“ | Maastricht University program | Salzburg, Austria, Certificate of excellent presentation 
-
 ## Квалификации
+
 
 `10 ноември 2017 г.`
 
 - Национална кардиологична болница | „Ехокардиографска оценка на сърдечна функция“
+
+`1-2 декември 2017 г.`
+
+- Critical appraisal course | гр. София | „Evidence-based medicine“
 
 `19-20 октомври 2018 г.`
 
@@ -398,20 +367,44 @@ First Certificate in English (FCE) - Cambridge English Language Assessment | Rea
 
 Трето училище по ехокардиография | гр. София | „Нови ехографски методи в кардиологията“
 
-`22-26 март 2021 г.`
+`февруари 2020 г.`
 
-- Курс „Биостатистика с IBM SPSS Statistics for Windows, Version 22.0“
+- Promoters of advanced oncogenetics open online training and multimedia raise awareness on multidisciplinary assessment of patients and their families at risk of hereditary or familial cancerHOPE How Oncogenetics Predicts & Educates Erasmus+ program.2018-1-RO01-KA202-049189
 
 `март 2020 г.`
 
-- English for academic purposes | Ирина Митърчева, дф | Департамент по езиково обучение (ДЕСО), МУ-Пловдив 
+- English for academic purposes | Ирина Митърчева, дф | Департамент по езиково обучение (ДЕСО) | МУ-Пловдив 
 
 - Езикови въпроси на научния и медицински текст | Департамент по езиково обучение (ДЕСО) | МУ-Пловдив | Доц. Милиева, дф
+
+`22-26 март 2021 г.`
+
+- Курс „Биостатистика с IBM SPSS Statistics for Windows, Version 22.0“
 
 `юни 2021 г.` 
 
 - Интензивн специализиран курс „Академично писане, изработване на кохранови системни ревюта“ | Договор КП – 06-ДК1/6 от 29.03.2021 г. „COVID-19 HUB – Информация, иновации и имплементация на интегративни научни разработки“, финансиран по конкурс, свързан с пандемията от COVID-19, към Фонд „Научни изследвания“ – МОН. 
 
- `септември 2021 г.`
+`септември - декември 2021 г.`
 
 - Курс „Мащинно самоубочение“ Machine Learning | СофтУни 
+
+`10-15 октомври 2022 г.`
+
+- Open Medical Institute (OMI) Seminar | „Economic Evaluation in Healthcare“ | Maastricht University program | Salzburg, Austria
+
+`03-09 декември 2023 г.`
+
+- Open Medical Institute (OMI) Seminar | „Public Health Strategy - I“ | Maastricht University program | Salzburg, Austria, | Certificate of excellent presentation 
+
+`април 2024 - до момента`
+
+-  [OpenAQ Community Ambassador Program](https://openaq.org/about/people/kostadin-kostadinov/). | The OpenAQ program includes a comprehensive curriculum on ambient air pollution, air quality monitoring, data transparency, data access, data analysis, participatory research and community engagement | Certificate of completion
+
+`26 май - 01 юни 2024 г.`
+
+- Open Medical Institute (OMI) Seminar | “Public Health Strategy - II“ | Maastricht University program | Salzburg, Austria, Certificate of excellent presentation 
+
+`октомври 2024 г. - до момента`
+
+- Следдипломно обучение „Сексология и сексопатология“ | МУ-Пловдив | Отдел СДО
