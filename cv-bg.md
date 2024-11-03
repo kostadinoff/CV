@@ -204,7 +204,7 @@ geometry:  margin=0.8in
 
 `Април 2021 г.` 
 
-- Национална научна програма „Млади учени и постдокторанти“ Р-322/08.03.2021
+- Национална научна програма „Млади учени и постдокторанти“ | Министерство на образованието и науката 
 
 `Октомври 2024 г.` 
 
@@ -212,7 +212,9 @@ geometry:  margin=0.8in
 
 `Септември 2024 г.` 
 
-- Национална научна програма „Млади учени и постдокторанти - 2“
+- Национална научна програма „Млади учени и постдокторанти - 2“ | Министерство на образованието и науката 
+
+`Октомври 2024 г.`
 
 ## Международни проекти
 
@@ -382,7 +384,7 @@ geometry:  margin=0.8in
 
 `Февруари 2020 г.`
 
-- Следдипломно обучение „Promoters of advanced oncogenetics open online training and multimedia raise awareness on multidisciplinary assessment of patients and their families at risk of hereditary or familial cancer“ | HOPE How Oncogenetics Predicts & Educates Erasmus+ program.2018-1-RO01-KA202-049189
+- Следдипломно обучение | „Promoters of advanced oncogenetics open online training and multimedia raise awareness on multidisciplinary assessment of patients and their families at risk of hereditary or familial cancer“ | HOPE How Oncogenetics Predicts & Educates Erasmus+ program.2018-1-RO01-KA202-049189
 
 `Март 2020 г.`
 
@@ -396,7 +398,7 @@ geometry:  margin=0.8in
 
 `Юни 2021 г.` 
 
-- Интензивн специализиран курс „Академично писане, изработване на кохранови системни ревюта“ | Договор КП – 06-ДК1/6 от 29.03.2021 г. „COVID-19 HUB – Информация, иновации и имплементация на интегративни научни разработки“, финансиран по конкурс, свързан с пандемията от COVID-19, към Фонд „Научни изследвания“ – МОН. 
+- Интензивн специализиран курс | „Академично писане, изработване на кохранови системни ревюта“ | Договор КП – 06-ДК1/6 от 29.03.2021 г. | „COVID-19 HUB – Информация, иновации и имплементация на интегративни научни разработки“, финансиран по конкурс, свързан с пандемията от COVID-19 | Фонд „Научни изследвания“ | Министерство на образованието и науката
 
 `Септември - Декември 2021 г.`
 
