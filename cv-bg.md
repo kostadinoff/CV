@@ -420,11 +420,11 @@ geometry:  margin=0.8in
 
 `26 май - 01 юни 2024 г.`
 
-- Open Medical Institute (OMI) Seminar | “Public Health Strategy - II“ | Maastricht University program | Salzburg, Austria, Certificate of excellent presentation 
+- Open Medical Institute (OMI) Seminar | „Public Health Strategy - II“ | Maastricht University program | Salzburg, Austria, Certificate of excellent presentation 
 
 `Септември 2024`
 
-- Курс | National Aeronautics and Space Administration: Washington, D.C, US | Open Science | Certificate of Completion
+- Курс | National Aeronautics and Space Administration | Washington, D.C, US | „Open Science“ | Certificate of Completion
 
 `Октомври 2024 г. - До момента`
 

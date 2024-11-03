@@ -37,7 +37,7 @@ geometry:  margin=0.8in
 
 `December 2021 - Present`
 
-- PhD student | Department of Social Medicine and Public Health | Medical University of Plovdiv | "Health Policies in the Field of Rare Tumors"
+- PhD student | Department of Social Medicine and Public Health | Medical University of Plovdiv | Health Policies in the Field of Rare Tumors
 
 `October 2024 - Present`
 
