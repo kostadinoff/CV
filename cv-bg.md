@@ -7,10 +7,10 @@ nocite: |
    @*
 format:
   pdf:
-    mainfont: Sofia Sans Condensed
-    monofont: Sofia Sans Condensed
-    sansfont: Sofia Sans Condensed
-    fontsize: 12pt
+    mainfont: CMU Serif
+    monofont: CMU Serif
+    sansfont: CMU Serif
+    fontsize: 11pt
 geometry:  margin=0.8in
 ---
 
@@ -212,7 +212,7 @@ geometry:  margin=0.8in
 
 `Септември 2024 г.` 
 
-- Национална научна програма „Млади учени и постдокторанти - 2“ | Министерство на образованието и науката 
+- Национална научна програма „Млади учени и постдокторанти - 2“ | Министерство на образованието и науката | BG05M2OP001-2.009-0025
 
 `Октомври 2024 г.`
 
