@@ -2,7 +2,7 @@
 title: "CURRICULUM VITAE"
 author: "Kostadin Rangelov Kostadinov, MD, MPH, MEcon"
 bibliography: referencelist.bib
-csl: "plos-medicine.csl"
+csl: "american-chemical-society.csl"
 nocite: |
    @*
 format:
