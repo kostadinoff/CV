@@ -1,6 +1,6 @@
 ---
 title: "CURRICULUM VITAE"
-author: "Kostadin Rangelov Kostadinov, MD, MPH, MEcon"
+author: "Kostadin Rangelov Kostadinov, MD, PhD, MPH, MSc"
 bibliography: referencelist.bib
 csl: "american-chemical-society.csl"
 nocite: |
@@ -35,9 +35,9 @@ geometry:  margin=0.8in
 
 # Education
 
-`December 2021 - Present`
+`December 2021 - January 2025`
 
-- PhD student | Department of Social Medicine and Public Health | Medical University of Plovdiv | Health Policies in the Field of Rare Tumors
+- PhD | Department of Social Medicine and Public Health | Medical University of Plovdiv | Health Policies in the Field of Rare Tumors
 
 `October 2024 - Present`
 
