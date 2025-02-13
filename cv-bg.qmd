@@ -184,10 +184,6 @@ geometry:  margin=0.8in
 
 ## Университетски проекти
 
-`Септември 2021 г.` 
-
--   „Бърза микробиологична диагноза на генитални инфекции при жени и мъже – сравнителен анализ” No. НО-03/2020 (НО-Р-8445). Научноизследователски проект, финансиран по Наредба на МОН от 01.01.2017 г. за условията и реда за планиране, разпределение и разходване на средствата, отпускани целево от държавния бюджет за присъщата на висшите училища научна или художествено-творческа дейност.
-
 `Септември 2022 г.` 
 
 - „Антимикробна активност на каналопълнежните средства за лечение на ендодонтска инфекция на временни зъби“ Докторантски и постдокторантски проекти ДПДП 04/01.09.2021
@@ -214,7 +210,9 @@ geometry:  margin=0.8in
 
 - Национална научна програма „Млади учени и постдокторанти - 2“ | Министерство на образованието и науката | BG05M2OP001-2.009-0025
 
-`Октомври 2024 г.`
+`Януари 2024 г.`
+
+- „Оптимизиране на съвременните бързи методи за по-прецизна микробиологична диагностика и определяне на таргетирана антибиотична терапия при уроинфекции“ | 3.4.3/15.01.2024 | BG-RRP-2.004-0007-C01
 
 ## Международни проекти
 
@@ -336,7 +334,16 @@ geometry:  margin=0.8in
 
 `13-15 ноември 2024 г.`
 
-- 17th European Public Health Conference 2024 | [DV.24 - Mapping the Policy Alternatives for Rare Cancer](https://ephconference.eu/app/programme/programme.php?d=displays) | **Kostadinov K**, Hristozova E, Musurova N, Iskrov G, Stefanov R
+- 17th European Public Health Conference 2024 
+
+1. [Mapping the Policy Alternatives for Rare Cancer](https://academic.oup.com/eurpub/article/34/Supplement_3/ckae144.2172/7844803) | **Kostadinov K**, Hristozova E, Musurova N, Iskrov G, Stefanov R
+
+2. [Exploring Empathy Dynamics in Virtual Patient Training](https://academic.oup.com/eurpub/article/34/Supplement_3/ckae144.1139/7844712) | G. Petrova, **K. Kostadinov**, V. Lalova, S. Ivanova
+
+`15-19 октомври 2024 г.`
+
+- 1st Occupational Therapy Europe Congress | *Using digital tools to promote mental health in primary schools* | Poland	Kraków | 
+
 
 ---
 
