@@ -7,9 +7,9 @@ nocite: |
    @*
 format:
   pdf:
-    mainfont: CMU Serif
-    monofont: CMU Serif
-    sansfont: CMU Serif
+    mainfont: Libra Serif Modern
+    monofont: Libra Serif Modern
+    sansfont: Libra Serif Modern
     fontsize: 11pt
 geometry:  margin=0.8in
 ---
