@@ -35,6 +35,10 @@ geometry:  margin=0.8in
 
 # Education
 
+`April 2022 - May 2025`
+
+- National Medical Board Certification | Medical specialty ‘Social Medicine and Organization of Health Care and Pharmacy’ | MU-Plovdiv
+
 `December 2021 - January 2025`
 
 - PhD | Department of Social Medicine and Public Health | Medical University of Plovdiv | Health Policies in the Field of Rare Tumors
@@ -65,11 +69,11 @@ geometry:  margin=0.8in
 
 - Medical University of Plovdiv | Junior Researcher - R1 | Research Group (RG) 3.1.5 – "Health and Quality of Life in a Green and Sustainable Environment" | Strategic Research and Innovation Program for the Development of MU-Plovdiv | Contract: BG-RRP-2.004-0007-C01 from 31.12.2022
 
-`April 2022 - Present`
+`July 2025 - Present`
 
-- Resident in Social Medicine and Healthcare and Pharmacy Organization | Medical University of Plovdiv
+- MU-Plovdiv | Assistant Professor | Department of Social Medicine and Public Health | Faculty of Public Health | Teaching and Practical Training in Medical Ethics; Biostatistics; Social Medicine and Public Health
 
-`September 2021 - Present`
+`September 2021 - July 2025`
 
 - Medical University of Plovdiv | Assistant professor | Practical classes in Medical Ethics, Biostatistics, Social Medicine, and Public Health
 
@@ -114,6 +118,8 @@ geometry:  margin=0.8in
 - Summer Semester 2023/24: Social Medicine and Public Health
 
 - Winter Semester 2024/25: Biostatistics | Medical Ethics | Public Dental Health | Clinical Trial Design for Non-Interventional Studies
+
+- Summer Semester 2024/25: Social Medicine and Public Health
 
 ## Language
 
@@ -166,6 +172,8 @@ Engaging in academic and instructional endeavors within a diverse setting encomp
 
 `Since 2022` World Federation of Public Health Associations (WFPHA)
 
+`Since 2025` Associate editor of the Journal of Medical Internet Research (JMIR)
+
 ---
 
 # Publications
@@ -211,7 +219,7 @@ Engaging in academic and instructional endeavors within a diverse setting encomp
 `September 2024`
 
 - National Science Program "Young Scientists and Postdoctoral Researchers - 2" | Ministry of Education and Science of the Republic of Bulgaria
- 
+
 ## International projects
 
 `March - May 2020`
@@ -302,6 +310,14 @@ Engaging in academic and instructional endeavors within a diverse setting encomp
 
 - Scientific Conference "Environment and Health: Socio-Technical Barriers and Perspectives to Improve Quality of Life for Human Communities" | *["Research on the Link Between Air Pollution, Urban Environment Characteristics, and Population Health"](https://hiddeneurope-jeanmonnet.uni-plovdiv.net/2024/10/%d0%bf%d1%80%d0%be%d0%b3%d1%80%d0%b0%d0%bc%d0%b0-%d0%bd%d0%b0-%d0%bd%d0%b0%d1%83%d1%87%d0%bd%d0%b0%d1%82%d0%b0-%d0%ba%d0%be%d0%bd%d1%84%d0%b5%d1%80%d0%b5%d0%bd%d1%86%d0%b8%d1%8f-%d0%be%d0%ba/)* | Assoc. Prof. Dr. Angel Djambov, **Asst. Dr. Kostadin Kostadinov**, Prof. Donka Dimitrova | Plovdiv University "Paisii Hilendarski" | Plovdiv
 
+
+`09-11 May 2025`
+
+- The Scientific Conference "Science and Youth 2025"
+   1.  *["Regional disparities and dynamics in the availability of physical therapy and rehabilitation in bulgaria"](https://asclepius.bg/cnm/wp-content/uploads/2025/05/SY-DMS-2025-abstracts.pdf)* | E. Razheva, **K. Kostadinov**, G. Iskrov, T. Miteva-Katrandzhieva, R. Stefanov | Poster session
+   2.  *["A rapid review of health outcomes associated with the food environment in cities"](https://asclepius.bg/cnm/wp-content/uploads/2025/05/SY-DMS-2025-abstracts.pdf)* | **K. Kostadinov**, D. Dimitrova, M. Helbich, A. Burov, A. Dzhambov | Poster session
+   3.  *["Optimization of GFR estimation for chemotherapy dosing in pediatric oncology"](https://asclepius.bg/cnm/wp-content/uploads/2025/05/SY-DMS-2025-abstracts.pdf)* | P. Markova, M. Spasova, A. Yaneva, **K. Kostadinov** | Oral presentation | Awarded with the "Best Presentation" prize
+
 ## International
 
 `October 20-23, 2022`
@@ -331,6 +347,14 @@ Engaging in academic and instructional endeavors within a diverse setting encomp
 `November 13-15, 2024`
 
 - 17th European Public Health Conference 2024 | *[DV.24 - Mapping the Policy Alternatives for Rare Cancer](https://ephconference.eu/app/programme/programme.php?d=displays)* | **Kostadinov K.**, Hristozova E., Musurova N., Iskrov G., Stefanov R.
+
+`7-11 July 2025`
+
+- AESOP Congress 2025 | Yıldız Technical University, Istanbul | Reintroduction of health impact assessment in Bulgarian city planning – why and how? | Angel Burov, Donka Dimitrova, Angel Dzhambov, Marco Helbich, **Kostadin Kostadinov**, Iana Markevych, Mark Nieuwenhuijsen
+
+`19-20 June 2025`
+
+- International Scientific Conference "Education, Science, Economics and Technology" | Burgas, Bulgaria | *["Formed attitudes and benefits of training with virtual reality glasses among nursing students and educators"](https://www.conference-burgas.com/maevolumes/vol21_2025/book%205_25.pdf)*| Gergana Petrova, **Kostadin Kostadinov**, Valentina Lalova, Svetla Ivanova
 
 ---
 
@@ -422,6 +446,18 @@ Engaging in academic and instructional endeavors within a diverse setting encomp
 
 - Course | National Aeronautics and Space Administration: Washington, D.C, US | Open Science | Certificate of Completion
 
-`October 2024 - Present`
+`October 2024 - July 2025`
 
 - Postgraduate Training | Sexology and Sexopathology | Medical University of Plovdiv | Department of Postgraduate Education
+
+`17-20 February 2025 г.`
+
+- GenEpi-BioTrain Virtual training | ECDC | R data analysis and visualisation for beginners | Online
+
+`February 2025 г.`
+
+- Micro learning course | Evaluating the study question | ECDC | Online
+
+`July 2025 г.`
+
+- GenEpi-BioTrain - Virtual training | Empowering AMR Research through R: Analysis and Visualisation | ECDC | Online

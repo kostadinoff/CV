@@ -34,11 +34,15 @@ geometry:  margin=0.8in
 
 # Образование
 
+`Април 2022 - Май 2025 г.`
+
+-  Специализация | специалност „Социална медицина и организация на здравеопазването и фармацията“ | МУ-Пловдив 
+
 `Декември 2021 - Януари 2025 г.`
 
 -  Докторантура | Катедра „Социална медицина и обществено здраве“ | Факултет по обществено здраве | МУ-Пловдив | „Здравни политики в областта на редките тумори“
 
-`Октомври 2024 - До момента`
+`Октомври 2024 - Юли 2025 г.`
 
 - Магистър „Статистическо бизнес консултиране“ | Стопанска академия „Димитър А. Ценов“ гр. Свищов 
 
@@ -63,11 +67,11 @@ geometry:  margin=0.8in
 - МУ-Пловдив | Млад учен - изследовател R1 | Изследователска група (ИГ) 3.1.5 – „Здраве и качество на живот в зелена и
 устойчива околна среда“ | „Програма за стратегически изследвания и иновации за развитие на МУ-Пловдив“ | Договор: BG-RRP-2.004-0007-C01 от 31.12.2022 г.
 
-`Април 2022 - До момента`
+`Юли 2025 г. - До момента`
 
-- Специализант "Социална медицина и организация на здравеопазването и фармацията" | МУ-Пловдив
+- МУ-Пловдив | Главен асистент | Катедра „Социална медицина и обществено здраве“ | Факултет по обществено здраве | Учебно-практически занятия по дисциплините медицинска етика; биостатистика; социална медицина и обществено здраве
 
-`Септември 2021 - До момента`
+`Септември 2021 - Юли 2025 г.`
 
 -  МУ-Пловдив | Асистент висше училище | Учебно-практически занятия по дисциплините медицинска етика; биостатистика; социална медицина и обществено здраве
 
@@ -114,6 +118,8 @@ geometry:  margin=0.8in
 - Летен семестър 2023/24 г. Социална медицина и обществено здраве
 
 - Зимен семестър 2024/25 г. Биостатистика | Медицинска етика | Обществено дентално здраве | Дизайн на клиничните изпитвания неинтервенционните проучвания
+
+- Летен семестър 2024/25 г. Социална медицина и обществено здраве
 
 ## Езикови
 
@@ -167,6 +173,7 @@ geometry:  margin=0.8in
 
 `от 2022 г.` Световна федерация на асоциациите по обществено здраве (WFPHA)
 
+`от 2025 г.` Редактор на списание „JMIR“ (Journal of Medical Internet Research)
 
 ---
 
@@ -305,6 +312,13 @@ geometry:  margin=0.8in
 - Научната конференция „Околна среда и здраве: социо-технически бариери и перспективи за издигане на качеството на живот на човешките колективи.” | [„Изследвания върху връзката на замърсяването на въздуха и характеристиките на градската среда със здравето на населението“](https://hiddeneurope-jeanmonnet.uni-plovdiv.net/2024/10/%d0%bf%d1%80%d0%be%d0%b3%d1%80%d0%b0%d0%bc%d0%b0-%d0%bd%d0%b0-%d0%bd%d0%b0%d1%83%d1%87%d0%bd%d0%b0%d1%82%d0%b0-%d0%ba%d0%be%d0%bd%d1%84%d0%b5%d1%80%d0%b5%d0%bd%d1%86%d0%b8%d1%8f-%d0%be%d0%ba/)| доц. д-р Ангел Джамбов, **ас. д-р Костадин Костадинов**, проф. Донка
 Димитрова | ПУ „Паисий Хилендарски“ | гр. Пловдив
 
+`09-11 май 2025 г.`
+
+-  Научната конференция „Наука и младост 2025“ 
+   1.  *[„Regional disparities and dynamics in the  availability of physical therapy and  rehabilitation in bulgaria“](https://asclepius.bg/cnm/wp-content/uploads/2025/05/SY-DMS-2025-abstracts.pdf)* | E. Razheva, **K. Kostadinov**, G. Iskrov, T. Miteva-Katrandzhieva, R. Stefanov | Постер
+   2.  *[„A rapid review of health outcomes associated with the food environment in cities“](https://asclepius.bg/cnm/wp-content/uploads/2025/05/SY-DMS-2025-abstracts.pdf)* | **K. Kostadinov**, D. Dimitrova, M. Helbich, A. Burov, A. Dzhambov | Постер
+   3.  *[„Optimization of GFR estimation for chemotherapy dosing in pediatric oncology“](https://asclepius.bg/cnm/wp-content/uploads/2025/05/SY-DMS-2025-abstracts.pdf)* | P. Markova, M. Spasova, A. Yaneva, **K. Kostadinov** | Награда за най-добра презентация
+
 
 ## Международни
 
@@ -344,6 +358,13 @@ geometry:  margin=0.8in
 
 - 1st Occupational Therapy Europe Congress | *Using digital tools to promote mental health in primary schools* | Poland	Kraków | 
 
+`7-11  юли 2025 г.`
+
+- AESOP Congress 2025 | Yıldız Technical University, Istanbul | Reintroduction of health impact assessment in Bulgarian city planning – why and how? | Angel Burov, Donka Dimitrova, Angel Dzhambov, Marco Helbich, **Kostadin Kostadinov**, Iana Markevych, Mark Nieuwenhuijsen
+
+`19-20 юни 2025 г.`
+
+- Международна научна конференция „Образование, наука, икономика и технологии“ | гр. Бургас | *[„формираните нагласи и ползи от обучение с очила за виртуална реалност при студенти и преподаватели медицински сестри“](https://www.conference-burgas.com/maevolumes/vol21_2025/book%205_25.pdf)*| Гергана Петрова, **Костадин Костадинов**, Валентина Лалова, Светла Иванова
 
 ---
 
@@ -435,6 +456,18 @@ geometry:  margin=0.8in
 
 - Курс | National Aeronautics and Space Administration | Washington, D.C, US | „Open Science“ | Certificate of Completion
 
-`Октомври 2024 г. - До момента`
+`Октомври 2024 г. - Юли 2025 г.`
 
 - Следдипломно обучение „Сексология и сексопатология“ | МУ-Пловдив | Отдел СДО
+
+`17-20 февруари 2025 г.`
+
+- GenEpi-BioTrain Virtual training | ECDC | R data analysis and visualisation for beginners | Online
+
+`февруари 2025 г.`
+
+- Micro learning course | Evaluating the study question | ECDC | Online
+
+`юли 2025 г.`
+
+- GenEpi-BioTrain - Virtual training | Empowering AMR Research through R: Analysis and Visualisation | ECDC | Online
